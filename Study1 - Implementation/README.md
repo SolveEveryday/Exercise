@@ -1,4 +1,4 @@
-# StudyN - 단순 구현
+# Study1 - 단순 구현
 
 ## 푼 문제
-[문제이름](문제링크) |
+[Two Sum](https://leetcode.com/problems/two-sum/) |
