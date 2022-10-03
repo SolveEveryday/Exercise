@@ -4,7 +4,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 진홍 수민 수경 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 진홍 [수민](Day01/ysm.cpp) 수경 |
 
 ## [일차](Day)
 
