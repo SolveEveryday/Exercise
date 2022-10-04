@@ -10,7 +10,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [1371](https://www.acmicpc.net/problem/1371) | 진홍 수민 수경 |
+| [1371](https://www.acmicpc.net/problem/1371) | 진홍 수민 [수경](Day02/hsk.js) |
 
 ## [일차](Day)
 
