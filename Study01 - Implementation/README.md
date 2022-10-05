@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [1371](https://www.acmicpc.net/problem/1371) | 진홍 [수민](Day02/ysm.cpp) 수경 |
+| [1371](https://www.acmicpc.net/problem/1371) | [진홍](Day02/kjh.java) [수민](Day02/ysm.cpp) 수경 |
 
 ## [3일차](Day03)
 
