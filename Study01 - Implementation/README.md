@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 진홍 수민 수경 |
+| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [진홍](Day03/kjh.java) 수민 수경 |
 
 ## [일차](Day)
 
