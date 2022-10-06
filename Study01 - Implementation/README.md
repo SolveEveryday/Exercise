@@ -25,7 +25,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [후보 추천하기](https://www.acmicpc.net/problem/1713) | 진홍 수민 수경 |
+| [후보 추천하기](https://www.acmicpc.net/problem/1713) | 진홍 [수민](Day04/ysm.cpp) 수경 |
 
 ## [일차](Day)
 
