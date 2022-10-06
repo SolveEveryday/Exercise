@@ -11,13 +11,15 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [1371](https://www.acmicpc.net/problem/1371) | [진홍](Day02/kjh.java) [수민](Day02/ysm.cpp) 수경 |
+| [1371](https://www.acmicpc.net/problem/1371) | [진홍](Day02/kjh.java) [수민](Day02/ysm.cpp) [수경](Day02/hsk.js) |
 
 ## [3일차](Day03)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 진홍 [수민](Day03/ysm.cpp) 수경 |
+
+| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [진홍](Day03/kjh.java) [수민](Day03/ysm.cpp) [수경](Day03/hsk.js) |
+
 
 ## [4일차](Day4)
 
