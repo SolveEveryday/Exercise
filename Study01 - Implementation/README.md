@@ -20,23 +20,23 @@
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [진홍](Day03/kjh.java) [수민](Day03/ysm.cpp) [수경](Day03/hsk.js) |
 
 
-## [4일차](Day4)
+## [4일차](Day04)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [후보 추천하기](https://www.acmicpc.net/problem/1713) | 진홍 수민 [수경](Day04/hsk.js) |
 
-## [5일차](Day)
+## [5일차](Day05)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [계단오르기](https://www.acmicpc.net/problem/2579) | 진홍 수민 수경 |
 
-## [일차](Day)
+## [6일차](Day06)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 수민 수경 |
 
 ## [일차](Day)
 
