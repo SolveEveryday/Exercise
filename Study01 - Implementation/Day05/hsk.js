@@ -13,7 +13,7 @@ const [N, ...score] = (
   .split('\n')
   .map(Number);
 
-const stairs = new Array(N + 1).fill(0);
+const stairs = new Array(N).fill(0);
 
 stairs[0] = score[0];
 stairs[1] = Math.max(score[0] + score[1], score[1]);
