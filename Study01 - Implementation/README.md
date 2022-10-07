@@ -31,7 +31,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [계단오르기](https://www.acmicpc.net/problem/2579) | 진홍 수민 수경 |
+| [계단오르기](https://www.acmicpc.net/problem/2579) | 진홍 수민 [수경](Day05/hsk.js) |
 
 ## [일차](Day)
 
