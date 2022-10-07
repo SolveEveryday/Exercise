@@ -17,7 +17,6 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [진홍](Day03/kjh.java) [수민](Day03/ysm.cpp) [수경](Day03/hsk.js) |
 
 
