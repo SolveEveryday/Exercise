@@ -31,14 +31,14 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [계단오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day05/kjh.kt) [수민](Day04/ysm.cpp) [수경](Day05/hsk.js) |
+| [계단오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day05/kjh.kt) [수민](Day05/ysm.cpp) [수경](Day05/hsk.js) |
 
 
 ## [6일차](Day06)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 [수민](Day05/ysm.cpp) 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 [수민](Day06/ysm.cpp) 수경 |
 
 ## [7일차](Day7)
 
