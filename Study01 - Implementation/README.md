@@ -37,7 +37,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 수민 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 수민 [수경](Day06/hsk.js) |
 
 ## [일차](Day)
 
