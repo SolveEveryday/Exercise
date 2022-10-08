@@ -24,19 +24,21 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [후보 추천하기](https://www.acmicpc.net/problem/1713) | 진홍 수민 수경 |
+| [후보 추천하기](https://www.acmicpc.net/problem/1713) | [진홍](Day04/kjh.java) [수민](Day04/ysm.cpp) [수경](Day04/hsk.js) |
+
 
 ## [5일차](Day05)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [계단오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day05/kjh.kt) 수민 수경 |
+| [계단오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day05/kjh.kt) 수민 [수경](Day05/hsk.js) |
 
-## [일차](Day)
+
+## [6일차](Day06)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 수민 수경 |
 
 ## [일차](Day)
 
