@@ -38,9 +38,10 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | 진홍 [수민](Day06/ysm.cpp) 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [진홍](Day06/kjh.kt) 수민 수경 |
+| [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [진홍](Day06/kjh.kt) [수민](Day06/ysm.cpp) 수경 |
 
-## [7일차](Day7)
+## [7일차](Day07)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
