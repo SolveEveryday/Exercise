@@ -44,7 +44,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [경비원](https://www.acmicpc.net/problem/2564) | 진홍 수민 |
+| [경비원](https://www.acmicpc.net/problem/2564) | 진홍 [수민](Day07/ysm.cpp) |
 
 ## [일차](Day)
 
