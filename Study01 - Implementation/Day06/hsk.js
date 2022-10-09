@@ -23,13 +23,13 @@ words.forEach((word) => {
     removedRepeatWord += char;
   }
 
-  const checkedWord = new Set();
+  const checkedChar = new Set();
   for (const char of removedRepeatWord) {
-    if (checkedWord.has(char)) {
+    if (checkedChar.has(char)) {
       notGroupWordCount += 1;
       break;
     } else {
-      checkedWord.add(char);
+      checkedChar.add(char);
     }
   }
 });
