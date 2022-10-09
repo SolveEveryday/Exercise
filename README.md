@@ -24,13 +24,6 @@
         한현수
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/sukyeongh">
-        <img src="https://avatars.githubusercontent.com/u/50071076?v=4" width="100px;" />
-        <br />
-        황수경
-      </a>
-    </td>
   </tr>
 </table>
 
