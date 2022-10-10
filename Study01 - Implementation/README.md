@@ -50,7 +50,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [색칠 1](https://www.acmicpc.net/problem/1117) | 진홍 수민 현수 |
+| [색칠 1](https://www.acmicpc.net/problem/1117) | 진홍 [수민](Day08/ysm.cpp) 현수 |
 
 ## [일차](Day)
 
