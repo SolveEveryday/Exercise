@@ -52,18 +52,17 @@
 | -------------------- |--------------------------|
 | [색칠 1](https://www.acmicpc.net/problem/1117) | [진홍](Day08/kjh.java) [수민](Day08/ysm.cpp) [현수](Day07/hhs.java) |
 
-
 ## [9일차](Day09)
 
 | 문제                                                                         | 답안                |
 |----------------------------------------------------------------------------| ------------------- |
-| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | 진홍 [수민](Day09/ysm.cpp) 현수 |
+| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) 수민 [현수](Day09/hhs.java) |
 
-## [일차](Day)
+## [10일차](Day10)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 |
 
 ## [일차](Day)
 
