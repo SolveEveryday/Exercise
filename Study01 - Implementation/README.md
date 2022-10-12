@@ -57,7 +57,7 @@
 
 | 문제                                                                         | 답안                |
 |----------------------------------------------------------------------------| ------------------- |
-| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | 진홍 수민 현수 |
+| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) 수민 현수 |
 
 ## [10일차](Day10)
 
