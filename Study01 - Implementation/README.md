@@ -62,7 +62,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) 수민 현수 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) 수민 [현수](Day10/hhs.java) |
 
 ## [11일차](Day11)
 
