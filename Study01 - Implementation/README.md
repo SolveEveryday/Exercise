@@ -68,7 +68,7 @@
 
 | 문제                 | 답안                         |
 | -------------------- |----------------------------|
-| [영식이와 친구들](https://www.acmicpc.net/problem/1592) | 진홍 수민 [현수](Day11/hhs.java) |
+| [영식이와 친구들](https://www.acmicpc.net/problem/1592) | 진홍 [수민](Day11/ysm.cpp) [현수](Day11/hhs.java) |
 
 ## [12일차](Day12)
 
