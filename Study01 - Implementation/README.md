@@ -56,13 +56,13 @@
 
 | 문제                                                                         | 답안                |
 |----------------------------------------------------------------------------| ------------------- |
-| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) 수민 [현수](Day09/hhs.java) |
+| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) [수민](Day09/ysm.cpp) [현수](Day09/hhs.java) |
 
 ## [10일차](Day10)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) 수민 [현수](Day10/hhs.java) |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) [수민](Day10/ysm.cpp) [현수](Day10/hhs.java) |
 
 ## [11일차](Day11)
 
