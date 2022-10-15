@@ -22,12 +22,12 @@ public class Solution {
 
             tempNode.val = sumValue % 10;
 
-            if (l1 == null && l2 == null) {
+            if (l1 == null && l2 == null && tempValue == 0) {
                 break;
             }
 
             tempNode.next = new ListNode();
-            tempNode = tempNode.next; && tempValue == 0
+            tempNode = tempNode.next;
         }
 
         return resultNode;
