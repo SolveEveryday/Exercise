@@ -78,9 +78,9 @@
 
 ## [13일차](Day13)
 
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 진홍 수민 현수 |
+| 문제                 | 답안                         |
+| -------------------- |----------------------------|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 진홍 수민 [현수](Day13/hhs.java) |
 
 ## [일차](Day)
 
