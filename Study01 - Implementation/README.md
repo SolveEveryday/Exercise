@@ -80,7 +80,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 진홍 수민 현수 |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [진홍](Day13/kjh.kt) 수민 현수 |
 
 ## [일차](Day)
 
