@@ -66,15 +66,16 @@
 
 ## [11일차](Day11)
 
-| 문제                 | 답안                         |
-| -------------------- |----------------------------|
-| [영식이와 친구들](https://www.acmicpc.net/problem/1592) | 진홍 수민 [현수](Day11/hhs.java) |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [영식이와 친구들](https://www.acmicpc.net/problem/1592) | [진홍](Day11/kjh.kt) [수민](Day11/ysm.cpp) [현수](Day11/hhs.java) |
 
 ## [12일차](Day12)
 
 | 문제                                                                            | 답안                |
 |-------------------------------------------------------------------------------| ------------------- |
-| [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 진홍 [수민](Day12/ysm.cpp) 현수 |
+| [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [진홍](Day12/kjh.kt) [수민](Day12/ysm.cpp) [현수](Day12/hhs.java) |
+
 
 ## [13일차](Day13)
 
