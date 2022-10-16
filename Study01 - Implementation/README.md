@@ -56,13 +56,13 @@
 
 | 문제                                                                         | 답안                |
 |----------------------------------------------------------------------------| ------------------- |
-| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) 수민 [현수](Day09/hhs.java) |
+| [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [진홍](Day09/kjh.kt) [수민](Day09/ysm.cpp) [현수](Day09/hhs.java) |
 
 ## [10일차](Day10)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) 수민 [현수](Day10/hhs.java) |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day10/kjh.kt) [수민](Day10/ysm.cpp) [현수](Day10/hhs.java) |
 
 ## [11일차](Day11)
 
@@ -74,16 +74,17 @@
 
 | 문제                                                                            | 답안                |
 |-------------------------------------------------------------------------------| ------------------- |
-| [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [진홍](Day12/kjh.kt) 수민 [현수](Day12/hhs.java) |
+| [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [진홍](Day12/kjh.kt) [수민](Day12/ysm.cpp) [현수](Day12/hhs.java) |
+
 
 ## [13일차](Day13)
 
-| 문제                 | 답안                         |
-| -------------------- |----------------------------|
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 진홍 수민 [현수](Day13/hhs.java) |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [진홍](Day13/kjh.kt) 수민 [현수](Day13/hhs.java) |
 
-## [일차](Day)
+## [14일차](Day)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 |
+| [올림픽](https://www.acmicpc.net/problem/8979) | 진홍 수민 현수 |
