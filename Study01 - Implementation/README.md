@@ -81,10 +81,11 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 진홍 [수민](Day13/ysm.cpp) 현수 |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [진홍](Day13/kjh.kt) [수민](Day13/ysm.cpp) [현수](Day13/hhs.java) |
 
-## [일차](Day)
+
+## [14일차](Day)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 |
+| [올림픽](https://www.acmicpc.net/problem/8979) | 진홍 수민 현수 |
