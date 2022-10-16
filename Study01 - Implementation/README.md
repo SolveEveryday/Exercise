@@ -81,7 +81,8 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [진홍](Day13/kjh.kt) 수민 [현수](Day13/hhs.java) |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [진홍](Day13/kjh.kt) [수민](Day13/ysm.cpp) [현수](Day13/hhs.java) |
+
 
 ## [14일차](Day)
 
