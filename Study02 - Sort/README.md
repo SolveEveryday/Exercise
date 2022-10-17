@@ -1,5 +1,5 @@
 # Study02 - 정렬
-> PDF 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.pdf)
+> PDF 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm2.pdf) [현수](self_study/hhs.pdf)
 
 ## [1일차](Day01)
 
