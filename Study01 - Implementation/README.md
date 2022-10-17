@@ -88,4 +88,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [올림픽](https://www.acmicpc.net/problem/8979) | 진홍 수민 현수 |
+| [올림픽](https://www.acmicpc.net/problem/8979) | [진홍](Day14/kjh.kt) 수민 현수 |
