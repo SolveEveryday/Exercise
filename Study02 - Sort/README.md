@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 진홍 [수민](Day16/ysm.cpp) 현수 |
+| [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [진홍](Day16/kjh.kt) [수민](Day16/ysm.cpp) 현수 |
 
 ## [17일차](Day17)
 
