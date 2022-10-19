@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [시리얼 번호](https://www.acmicpc.net/problem/1431) | 진홍 수민 현수 |
+| [시리얼 번호](https://www.acmicpc.net/problem/1431) | [진홍](Day17/kjh.kt) 수민 현수 |
 
 ## [일차](Day)
 
