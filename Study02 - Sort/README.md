@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [버블 소트](https://www.acmicpc.net/problem/1377) | 진홍 수민 현수 |
+| [버블 소트](https://www.acmicpc.net/problem/1377) | [진홍](Day18/kjh.kt) 수민 현수 |
 
 ## [일차](Day)
 
