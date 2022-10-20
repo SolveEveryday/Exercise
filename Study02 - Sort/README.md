@@ -11,19 +11,20 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [진홍](Day16/kjh.kt) [수민](Day16/ysm.cpp) 현수 |
+| [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [진홍](Day16/kjh.kt) [수민](Day16/ysm.cpp) [현수](Day16/hhs.java) |
 
 ## [17일차](Day17)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [시리얼 번호](https://www.acmicpc.net/problem/1431) | 진홍 [수민](Day17/ysm.cpp) 현수 |
+| [시리얼 번호](https://www.acmicpc.net/problem/1431) | [진홍](Day17/kjh.kt) [수민](Day17/ysm.cpp) 현수 |
 
-## [일차](Day)
+
+## [18일차](Day18)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 |
+| [버블 소트](https://www.acmicpc.net/problem/1377) | 진홍 수민 현수 |
 
 ## [일차](Day)
 
