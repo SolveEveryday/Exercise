@@ -23,8 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [버블 소트](https://www.acmicpc.net/problem/1377) | [진홍](Day18/kjh.kt) [수민](Day18/ysm.cpp) 현수 |
-
+| [버블 소트](https://www.acmicpc.net/problem/1377) | [진홍](Day18/kjh.kt) [수민](Day18/ysm.cpp) [현수](Day18/hhs.java) |
 
 ## [19일차](Day19)
 
