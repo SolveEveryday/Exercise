@@ -82,7 +82,7 @@ public class Main {
                 numberInfos.add(new NumberInfo(j, countNumber[j]));
             }
 
-            Collections.sort(numberInfos);
+            mergeSort(0, numberInfos.size() - 1, numberInfos, new ArrayList<>(numberInfos));
             List<Integer> values = new ArrayList<>();
             numberInfos.forEach(numberInfo -> {
                 values.add(numberInfo.number);
@@ -120,7 +120,7 @@ public class Main {
                 numberInfos.add(new NumberInfo(j, countNumber[j]));
             }
 
-            Collections.sort(numberInfos);
+            mergeSort(0, numberInfos.size() - 1, numberInfos, new ArrayList<>(numberInfos));
             List<Integer> values = new ArrayList<>();
             numberInfos.forEach(numberInfo -> {
                 values.add(numberInfo.number);
@@ -138,6 +138,30 @@ public class Main {
         matrix = new int[maxRow][maxCol];
 
         copy();
+    }
+
+    public static void mergeSort(int start, int end, List<NumberInfo> targetList, List<NumberInfo> temp) {
+        if (start < end) {
+            int mid = (start + end) / 2;
+            mergeSort(start, mid, targetList, temp);
+            mergeSort(mid + 1, end, targetList, temp);
+
+            int p = start;
+            int q = mid + 1;
+            int idx = p;
+
+            while (p <= mid || q <= end) {
+                if (q > end || (p <= mid && targetList.get(p).compareTo(targetList.get(q)) < 0)) {
+                    temp.set(idx++, targetList.get(p++));
+                } else {
+                    temp.set(idx++, targetList.get(q++));
+                }
+            }
+
+            for (int i = start; i <= end; i++) {
+                targetList.set(i, temp.get(i));
+            }
+        }
     }
 }
 
