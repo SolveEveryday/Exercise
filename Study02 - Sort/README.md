@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [진홍](Day19/kjh.kt) [수민](Day19/ysm.cpp) 현수 |
+| [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [진홍](Day19/kjh.kt) [수민](Day19/ysm.cpp) [현수](Day19/hhs.java) |
 
 ## [20일차](Day20)
 
