@@ -30,7 +30,7 @@ fun quickSort(items: List<Meeting>): List<Meeting> {
     val left = items.filter { it < pivot }
     val right = items.filter { it > pivot }
 
-    return quickSort(left) + listOf(pivot) + quickSort(right)
+    return quickSort(left) + items.filter { it == pivot } + quickSort(right)
 }
 
 data class Meeting(val start: Int, val end: Int) {
