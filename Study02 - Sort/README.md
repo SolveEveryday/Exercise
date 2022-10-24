@@ -29,19 +29,19 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [진홍](Day19/kjh.kt) [수민](Day19/ysm.cpp) 현수 |
+| [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [진홍](Day19/kjh.kt) [수민](Day19/ysm.cpp) [현수](Day19/hhs.java) |
 
 ## [20일차](Day20)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [N번째 큰 수](https://www.acmicpc.net/problem/2075) | 진홍 수민 현수 |
+| [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [진홍](Day20/kjh.kt) [수민](Day20/ysm.cpp) 현수 |
 
 ## [21일차](Day21)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [차집합](https://www.acmicpc.net/problem/1822) | 진홍 [수민](Day21/ysm.cpp) 현수 |
+| [차집합](https://www.acmicpc.net/problem/1822) | [진홍](Day21/kjh.kt) [수민](Day21/ysm.cpp) 현수 |
 
 ## [22일차](Day22)
 
