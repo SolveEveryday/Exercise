@@ -35,7 +35,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [진홍](Day20/kjh.kt) 수민 현수 |
+| [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [진홍](Day20/kjh.kt) [수민](Day20/ysm.cpp) 현수 |
 
 ## [21일차](Day21)
 
