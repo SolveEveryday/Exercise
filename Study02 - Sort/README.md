@@ -41,7 +41,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [차집합](https://www.acmicpc.net/problem/1822) | [진홍](Day21/kjh.kt) [수민](Day21/ysm.cpp) 현수 |
+| [차집합](https://www.acmicpc.net/problem/1822) | [진홍](Day21/kjh.kt) [수민](Day21/ysm.cpp) [현수](Day21/hhs.java) |
 
 ## [22일차](Day22)
 
