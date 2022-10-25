@@ -53,7 +53,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모독](https://www.acmicpc.net/problem/16678) | 진홍 수민 현수 |
+| [모독](https://www.acmicpc.net/problem/16678) | 진홍 [수민](Day23/ysm.cpp) 현수 |
 
 ## [일차](Day)
 
