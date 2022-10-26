@@ -59,7 +59,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [숫자 카드](https://www.acmicpc.net/problem/10815) | 진홍 수민 현수 |
+| [숫자 카드](https://www.acmicpc.net/problem/10815) | 진홍 [수민](Day24/ysm.cpp) 현수 |
 
 ## [25일차](Day25)
 
