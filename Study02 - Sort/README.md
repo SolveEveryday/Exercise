@@ -53,7 +53,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모독](https://www.acmicpc.net/problem/16678) | [진홍](Day23/kjh.kt) [수민](Day23/ysm.cpp) 현수 |
+| [모독](https://www.acmicpc.net/problem/16678) | [진홍](Day23/kjh.kt) [수민](Day23/ysm.cpp) [현수](Day23/hhs.java) |
 
 ## [24일차](Day24)
 
