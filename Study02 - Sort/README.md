@@ -59,7 +59,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [숫자 카드](https://www.acmicpc.net/problem/10815) | [진홍](Day24/kjh.kt) [수민](Day24/ysm.cpp [현수](Day24/hhs.java) |
+| [숫자 카드](https://www.acmicpc.net/problem/10815) | [진홍](Day24/kjh.kt) [수민](Day24/ysm.cpp) [현수](Day24/hhs.java) |
 
 ## [25일차](Day25)
 
