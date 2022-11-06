@@ -65,8 +65,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [강의실 배정](https://www.acmicpc.net/problem/11000) | [진홍](Day25/kjh.kt) [수민](Day25/ysm.cpp) 현수 |
-
+| [강의실 배정](https://www.acmicpc.net/problem/11000) | [진홍](Day25/kjh.kt) [수민](Day25/ysm.cpp) [현수](Day25/hhs.java) |
 
 ## [26일차](Day26)
 
