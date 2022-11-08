@@ -71,7 +71,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [우체국](https://www.acmicpc.net/problem/2141) | 진홍 수민 현수 |
+| [우체국](https://www.acmicpc.net/problem/2141) | [진홍](Day26/kjh.kt) 수민 현수 |
 
 ## [27일차](Day27)
 
