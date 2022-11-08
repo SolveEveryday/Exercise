@@ -24,6 +24,13 @@
         한현수
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/jhd7130">
+        <img src="https://avatars.githubusercontent.com/u/78134917?v=4" width="100px;" />
+        <br />
+        정희두
+      </a>
+    </td>
   </tr>
 </table>
 
