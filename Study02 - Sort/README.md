@@ -71,13 +71,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [우체국](https://www.acmicpc.net/problem/2141) | [진홍](Day26/kjh.kt) 수민 현수 |
+| [우체국](https://www.acmicpc.net/problem/2141) | [진홍](Day26/kjh.kt) [수민](Day26/ysm.cpp) [현수](Day26/hhs.java) |
 
 ## [27일차](Day27)
 
-| 문제                 | 답안                         |
-| -------------------- |----------------------------|
-| [용액 합성하기](https://www.acmicpc.net/problem/14921) | 진홍 수민 [현수](Day27/hhs.java) |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [용액 합성하기](https://www.acmicpc.net/problem/14921) | [진홍](Day27/kjh.kt) [수민](Day27/ysm.cpp) [현수](Day27/hhs.java) |
 
 ## [28일차](Day28)
 
