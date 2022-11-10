@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) | 진홍 수민 현수  [희두](Day29/jhd.cpp) |
+| [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) | 진홍 수민 현수 [희두](Day29/jhd.cpp) |
 
 ## [일차](Day)
 
