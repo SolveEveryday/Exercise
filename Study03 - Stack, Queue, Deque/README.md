@@ -12,7 +12,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [쇠막대기](https://www.acmicpc.net/problem/10799) | 진홍 [수민](Day30/ysm.cpp) 현수 [희두](Day29/kjh.kt) |
+| [쇠막대기](https://www.acmicpc.net/problem/10799) | [진홍](Day30/kjh.kt) [수민](Day30/ysm.cpp) 현수 [희두](Day31/kjh.cpp) |
 
 ## [31일차](Day)
 
