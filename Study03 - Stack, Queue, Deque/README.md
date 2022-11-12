@@ -5,7 +5,8 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) | [진홍](Day29/kjh.kt) [수민](Day29/ysm.cpp) [현수](Day29/hhs.java) 희두 |
+| [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) | [진홍](Day29/kjh.kt) [수민](Day29/ysm.cpp) [현수](Day29/hhs.java) [희두](Day29/jhd.cpp) |
+
 
 ## [30일차](Day30)
 
