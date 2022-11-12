@@ -18,7 +18,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호](https://www.acmicpc.net/problem/9012) | 진홍 수민 현수 희두 |
+| [괄호](https://www.acmicpc.net/problem/9012) | [진홍](Day31/kjh.kt) 수민 현수 희두 |
 
 ## [일차](Day)
 
