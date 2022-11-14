@@ -12,19 +12,22 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [쇠막대기](https://www.acmicpc.net/problem/10799) | [진홍](Day30/kjh.kt) [수민](Day30/ysm.cpp) [현수](Day30/hhs.java) [희두](Day31/kjh.cpp) |
+| [쇠막대기](https://www.acmicpc.net/problem/10799) | [진홍](Day30/kjh.kt) [수민](Day30/ysm.cpp) [현수](Day30/hhs.java) [희두](Day30/jhd.cpp) |
 
 ## [31일차](Day)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호](https://www.acmicpc.net/problem/9012) | [진홍](Day31/kjh.kt) 수민 현수 희두 |
+| [괄호](https://www.acmicpc.net/problem/9012) | [진홍](Day31/kjh.kt) [수민](Day31/ysm.cpp) 현수 [희두](Day31/jhd.cpp) |
+
+
+
 
 ## [32일차](Day32)
 
-| 문제                 | 답안                            |
-| -------------------- |-------------------------------|
-| [프린터 큐](https://www.acmicpc.net/problem/1966) | 진홍 수민 [현수](Day32/hhs.java) 희두 |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [프린터 큐](https://www.acmicpc.net/problem/1966) | 진홍 수민 [현수](Day32/hhs.java) [희두](Day32/kjh.cpp) |
 
 ## [33일차](Day33)
 
@@ -32,11 +35,11 @@
 | -------------------- | ------------------- |
 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [34일차](Day34)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
