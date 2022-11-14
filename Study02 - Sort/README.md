@@ -84,3 +84,10 @@
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [진홍](Day28/kjh.kt) [수민](Day27/ysm.cpp) [현수](Day28/hhs.java) [희두](Day28/jhd.cpp) |
+
+## 회고
+
+1. 출제 난이도: 첫 1주는 좀 살살, 다음 1주는 어렵게내는 식으로 점점 어렵게 내보자
+2. 복잡도: 복잡도에서 N의 기준이 무엇인지 설명하자
+3. (참고) Reviewers와 Assignees 자동으로 설정해주는 auto-assign 플러그인 추가 완료! 이제 그냥 PR 올리면 알아서 추가됩니다.
+4. (참고) 'Enable Auto-merge' 라는 기능 사용하면 Approve 다 받았을 시 자동으로 Merge 해줍니다
