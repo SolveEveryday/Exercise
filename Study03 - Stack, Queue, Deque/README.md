@@ -36,7 +36,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 현수 희두 |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 [수민](Day34/ysm.cpp) 현수 희두 |
 
 ## [일차](Day)
 
