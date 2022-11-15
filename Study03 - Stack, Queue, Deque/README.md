@@ -30,13 +30,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [회전하는 큐](https://www.acmicpc.net/problem/1021) | [진홍](Day33/kjh.kt) 수민 현수 희두 |
+| [회전하는 큐](https://www.acmicpc.net/problem/1021) | [진홍](Day33/kjh.kt) 수민 현수 [희두](Day33/jhd.cpp) |
 
 ## [34일차](Day34)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 현수 희두 |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 현수 [희두](Day34/jhd.cpp) |
 
 ## [일차](Day)
 
