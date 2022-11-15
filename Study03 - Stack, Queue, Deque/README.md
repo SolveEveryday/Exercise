@@ -24,7 +24,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [프린터 큐](https://www.acmicpc.net/problem/1966) | 진홍 [수민](Day32/ysm.cpp) [현수](Day32/hhs.java) [희두](Day32/kjh.cpp) |
+| [프린터 큐](https://www.acmicpc.net/problem/1966) | [진홍](Day32/kjh.kt) [수민](Day32/ysm.cpp) [현수](Day32/hhs.java) [희두](Day32/kjh.cpp) |
 
 ## [33일차](Day33)
 
