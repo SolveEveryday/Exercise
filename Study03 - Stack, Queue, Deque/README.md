@@ -39,11 +39,11 @@
 | -------------------- | ------------------- |
 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 현수 희두 |
 
-## [35일차](Day)
+## [35일차](Day35)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | 진홍 수민 현수 희두 |
+| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | [진홍](Day35/kjh.kt) 수민 현수 희두 |
 
 ## [일차](Day)
 
