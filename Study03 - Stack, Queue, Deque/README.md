@@ -31,7 +31,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [회전하는 큐](https://www.acmicpc.net/problem/1021) | [진홍](Day33/kjh.kt) 수민 [현수](Day33/hhs.java) [희두](Day33/jhd.cpp) |
+| [회전하는 큐](https://www.acmicpc.net/problem/1021) | [진홍](Day33/kjh.kt) [수민](Day33/ysm.cpp) [현수](Day33/hhs.java) [희두](Day33/jhd.cpp) |
 
 ## [34일차](Day34)
 
