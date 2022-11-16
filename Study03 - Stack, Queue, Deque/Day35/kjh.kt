@@ -21,7 +21,7 @@ fun main() {
 
 class Josephus(val numberOfPeople: Int) {
     val sequence = ArrayDeque<Int>()    
-    var isNaturalOrder = true
+    var isNaturalOrder = true   
     
     init {
         for (i in 1..numberOfPeople) {
@@ -30,7 +30,7 @@ class Josephus(val numberOfPeople: Int) {
     }
     
     fun popNth(n: Int): Int {
-        for (i in 0..n-2) {
+        repeat(n-1) {
             popAndPush()
         }
         return pop()
