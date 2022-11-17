@@ -49,7 +49,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 희두 |
+| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 [현수](Day36/hhs.java) 희두 |
 
 ## [37일차](Day37)
 
