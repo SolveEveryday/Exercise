@@ -37,13 +37,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | *[진홍](kjh.java)* 수민 [현수](Day34/hhs.java) [희두](Day34/jhd.cpp) |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [진홍](kjh.java) [수민](Day34/ysm.cpp) [현수](Day34/hhs.java) [희두](Day34/jhd.cpp) |
 
-## [35일차](Day)
+## [35일차](Day35)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | 진홍 [수민](Day35/ysm.cpp 현수 희두 |
+| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | [진홍](Day35/kjh.kt) [수민](Day35/ysm.cpp) 현수 희두 |
 
 ## [36일차](Day36)
 
@@ -51,17 +51,17 @@
 | -------------------- | ------------------- |
 | [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [37일차](Day37)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [38일차](Day38)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
