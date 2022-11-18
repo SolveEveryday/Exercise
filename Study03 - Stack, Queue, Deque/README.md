@@ -43,7 +43,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | [진홍](Day35/kjh.kt) [수민](Day35/ysm.cpp) 현수 [희두](Day35/jhd.cpp) |
+| [반전 요세푸스](https://www.acmicpc.net/problem/20301) | [진홍](Day35/kjh.kt) [수민](Day35/ysm.cpp) [현수](Day35/hhs.java) [희두](Day35/jhd.cpp) |
 
 ## [36일차](Day36)
 
