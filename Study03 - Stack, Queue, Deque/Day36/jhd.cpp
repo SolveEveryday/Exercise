@@ -5,31 +5,24 @@ int N;
 int main() {
     
     cin >> N;
- 
-    int ans = 0;
+    int result = 0;
     while (N--) {
-        stack<char> stack;
+        stack<char> stk;
         string word;
         cin >> word;
  
-        for (int i = 0; i < word.length(); i++) {
-            if (stack.empty()) {
-                stack.push(word[i]);
-            }
+        for (int i = 0; i < word.size(); i++) {
+            if (stk.empty()) stk.push(word[i]);
             else {
-                if (stack.top() == word[i]) {
-                    stack.pop();
-                }
-                else {
-                    stack.push(word[i]);
-                }
+                if (stk.top() == word[i]) stk.pop();
+                else stk.push(word[i]);
             }
         }
  
-        if (stack.empty()) {
-            ans++;
+        if (stk.empty()) {
+            result++;
         }
     }
  
-    cout << ans;
+    cout << result;
 }
