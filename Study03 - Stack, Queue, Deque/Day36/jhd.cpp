@@ -1,14 +1,35 @@
 #include<bits/stdc++.h>
 using namespace std;
-int n;
+int N;
+
 int main() {
-    cin >> n;
-    int i = 666;
-
-    for(;;i++){
-        if(to_string(i).find("666") != string::npos) n--;
-        if(n == 0) break;
+    
+    cin >> N;
+ 
+    int ans = 0;
+    while (N--) {
+        stack<char> stack;
+        string word;
+        cin >> word;
+ 
+        for (int i = 0; i < word.length(); i++) {
+            if (stack.empty()) {
+                stack.push(word[i]);
+            }
+            else {
+                if (stack.top() == word[i]) {
+                    stack.pop();
+                }
+                else {
+                    stack.push(word[i]);
+                }
+            }
+        }
+ 
+        if (stack.empty()) {
+            ans++;
+        }
     }
-
-    cout << i << "\n";
+ 
+    cout << ans;
 }
