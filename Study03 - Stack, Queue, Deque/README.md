@@ -37,7 +37,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 진홍 수민 [현수](Day34/hhs.java) 희두 |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [진홍](kjh.java) [수민](Day34/ysm.cpp) [현수](Day34/hhs.java) [희두](Day34/jhd.cpp) |
 
 ## [35일차](Day35)
 
@@ -51,11 +51,11 @@
 | -------------------- | ------------------- |
 | [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [37일차](Day37)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
