@@ -49,13 +49,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 희두 |
+| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 [희두](Day36/jhd.cpp) |
 
 ## [37일차](Day37)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 수민 현수 희두 |
+| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 수민 현수 [희두](Day37/jhd.cpp) |
 
 ## [38일차](Day38)
 
