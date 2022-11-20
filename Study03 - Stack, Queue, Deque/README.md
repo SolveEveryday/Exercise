@@ -49,13 +49,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 수민 현수 희두 |
+| [괄호의 값](https://www.acmicpc.net/problem/2504) | [진홍](Day36/kjh.kt) [수민](Day36/ysm.cpp) [현수](Day36/hhs.java) [희두](Day36/jhd.cpp) |
 
 ## [37일차](Day37)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 [수민](Day37/ysm.cpp) 현수 희두 |
+| [창고 다각형](https://www.acmicpc.net/problem/2304) | [진홍](Day37/kjh.kt) [수민](Day37/ysm.cpp) [현수](Day37/hhs.java) [희두](Day37/jhd.cpp) |
 
 ## [38일차](Day38)
 
@@ -63,17 +63,17 @@
 | -------------------- | ------------------- |
 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [39일차](Day39)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [40일차](Day40)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [탑](https://www.acmicpc.net/problem/2493) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
