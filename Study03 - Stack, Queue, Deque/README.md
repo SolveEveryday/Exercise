@@ -49,7 +49,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호의 값](https://www.acmicpc.net/problem/2504) | 진홍 [수민](Day36/ysm.cpp) [현수](Day36/hhs.java) [희두](Day36/jhd.cpp) |
+| [괄호의 값](https://www.acmicpc.net/problem/2504) | [진홍](Day36/kjh.kt) [수민](Day36/ysm.cpp) [현수](Day36/hhs.java) [희두](Day36/jhd.cpp) |
 
 ## [37일차](Day37)
 
