@@ -67,7 +67,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 진홍 수민 현수 희두 |
+| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 진홍 [수민](Day39/ysm.cpp) 현수 희두 |
 
 ## [40일차](Day40)
 
