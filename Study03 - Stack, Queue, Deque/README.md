@@ -55,7 +55,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [창고 다각형](https://www.acmicpc.net/problem/2304) | 진홍 수민 [현수](Day37/hhs.java) [희두](Day37/jhd.cpp) |
+| [창고 다각형](https://www.acmicpc.net/problem/2304) | [진홍](Day37/kjh.kt) 수민 [현수](Day37/hhs.java) [희두](Day37/jhd.cpp) |
 
 ## [38일차](Day38)
 
