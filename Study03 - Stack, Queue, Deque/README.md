@@ -67,8 +67,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [진홍](Day39/kjh.kt) 수민 현수 [희두](Day39/jhd.cpp) |
-
+| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [진홍](Day39/kjh.kt) [수민](Day39/ysm.cpp) 현수 [희두](Day39/jhd.cpp) |
 
 ## [40일차](Day40)
 
