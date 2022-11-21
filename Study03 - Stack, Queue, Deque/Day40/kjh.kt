@@ -4,14 +4,14 @@ fun main() {
     val N = readln().toInt()
     val towerHeights = readln().split(" ").map { it.toInt() }
     
-    val towers = ArrayList<Tower>()
+    val reversedTowers = ArrayList<Tower>()
     for (pos in N downTo 1) {
-        towers.add(Tower(pos, towerHeights[pos-1]))
+        reversedTowers.add(Tower(pos, towerHeights[pos-1]))
     }
     
-    val recievedTowers = IntArray(N, { 0 })
+    val receivedPos = IntArray(N, { 0 })
     val stack = Stack<Tower>()
-    for (tower in towers) {
+    for (tower in reversedTowers) {
         if (stack.isEmpty() || tower.height < stack.peek().height) {
             stack.push(tower)
             continue
@@ -19,12 +19,12 @@ fun main() {
         
         while (stack.isNotEmpty() && tower.height >= stack.peek().height) {
             val sentTower = stack.pop()
-            recievedTowers[sentTower.pos-1] = tower.pos
+            receivedPos[sentTower.pos-1] = tower.pos
         }
         stack.push(tower)
     }
     
-    val answer = recievedTowers.joinToString(separator=" ")
+    val answer = receivedPos.joinToString(separator=" ")
     print(answer)
 }
 
