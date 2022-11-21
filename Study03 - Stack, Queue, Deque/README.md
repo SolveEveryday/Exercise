@@ -61,7 +61,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 진홍 수민 현수 희두 |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [진홍](Day38/kjh.kt) 수민 현수 희두 |
 
 ## [39일차](Day39)
 
