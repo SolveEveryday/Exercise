@@ -73,7 +73,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [탑](https://www.acmicpc.net/problem/2493) | 진홍 수민 현수 희두 |
+| [탑](https://www.acmicpc.net/problem/2493) | 진홍 수민 [현수](Day40/hhs.java) 희두 |
 
 ## [41일차](Day41)
 
