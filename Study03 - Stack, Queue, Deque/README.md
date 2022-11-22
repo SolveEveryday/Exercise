@@ -79,7 +79,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [줄서기](https://www.acmicpc.net/problem/17178) | 진홍 수민 현수 희두 |
+| [줄서기](https://www.acmicpc.net/problem/17178) | 진홍 수민 현수 [희두](Day41/jhd.cpp) |
 
 ## [일차](Day)
 
