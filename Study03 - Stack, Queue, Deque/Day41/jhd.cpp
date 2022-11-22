@@ -23,16 +23,22 @@ int main(){
         cin >> ticket;
         ticketInfo.push_back(ticket);
     }
+    
     sequence = ticketInfo;
     sort(sequence.begin(),sequence.end(),cmp);
     
     while(i < 5 * n && j < 5 * n){
+       
         if(ticketInfo[i] == sequence[j]) i++, j++;
+       
         else if(!stk.empty() && stk.top() == sequence[j]) stk.pop(), j++;
+
+        
         else stk.push(ticketInfo[i++]);
     }
 
     while(!stk.empty()){
+        // 스택의 탑이 순서
         if(stk.top()!=sequence[j++]){
             flag = 1;
             break;
