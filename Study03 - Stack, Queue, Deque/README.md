@@ -85,4 +85,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [AC](https://www.acmicpc.net/problem/5430) | 진홍 수민 현수 희두 |
+| [AC](https://www.acmicpc.net/problem/5430) | 진홍 수민 [현수](Day42/hhs.java) 희두 |
