@@ -61,7 +61,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [진홍](Day38/kjh.kt) [수민](Day38/ysm.cpp) 현수(Day38/hhs.java) [희두](Day38/jhd.cpp) |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [진홍](Day38/kjh.kt) [수민](Day38/ysm.cpp) [현수](Day38/hhs.java) [희두](Day38/jhd.cpp) |
 
 ## [39일차](Day39)
 
