@@ -85,7 +85,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [AC](https://www.acmicpc.net/problem/5430) | 진홍 수민 현수 희두 |
+| [AC](https://www.acmicpc.net/problem/5430) | 진홍 [수민](Day42/ysm.cpp) 현수 희두 |
 
 ## [일차](Day)
 
