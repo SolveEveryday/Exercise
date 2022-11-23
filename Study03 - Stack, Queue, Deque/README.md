@@ -61,25 +61,37 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [진홍](Day38/kjh.kt) [수민](Day38/ysm.cpp) 현수 [희두](Day38/jhd.cpp) |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [진홍](Day38/kjh.kt) [수민](Day38/ysm.cpp) [현수](Day38/hhs.java) [희두](Day38/jhd.cpp) |
 
 ## [39일차](Day39)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [진홍](Day39/kjh.kt) [수민](Day39/ysm.cpp) 현수 [희두](Day39/jhd.cpp) |
+| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [진홍](Day39/kjh.kt) [수민](Day39/ysm.cpp) [현수](Day39/hhs.java) [희두](Day39/jhd.cpp) |
 
 ## [40일차](Day40)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [탑](https://www.acmicpc.net/problem/2493) | 진홍 [수민](Day40/ysm.cpp) 현수 희두 |
+| [탑](https://www.acmicpc.net/problem/2493) | [진홍](Day40/kjh.kt) [수민](Day40/ysm.cpp) [현수](Day40/hhs.java) [희두](Day40/jhd.cpp) |
 
 ## [41일차](Day41)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [줄서기](https://www.acmicpc.net/problem/17178) | 진홍 수민 현수 희두 |
+
+## [42일차](Day42)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [AC](https://www.acmicpc.net/problem/5430) | 진홍 수민 현수 희두 |
+
+## [일차](Day)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [문제이름](문제링크) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
