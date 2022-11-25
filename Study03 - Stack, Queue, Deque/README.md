@@ -73,28 +73,28 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [탑](https://www.acmicpc.net/problem/2493) | [진홍](Day40/kjh.kt) 수민 [현수](Day40/hhs.java) [희두](Day40/jhd.cpp) |
+| [탑](https://www.acmicpc.net/problem/2493) | [진홍](Day40/kjh.kt) [수민](Day40/ysm.cpp) [현수](Day40/hhs.java) [희두](Day40/jhd.cpp) |
 
 ## [41일차](Day41)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [줄서기](https://www.acmicpc.net/problem/17178) | 진홍 수민 현수 희두 |
+| [줄서기](https://www.acmicpc.net/problem/17178) | [진홍](Day41/kjh.kt) [수민](Day41/ysm.cpp) [현수](Day41/hhs.java) 희두 |
 
 ## [42일차](Day42)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [AC](https://www.acmicpc.net/problem/5430) | [진홍](Day42/kjh.kt) 수민 현수 희두 |
+| [AC](https://www.acmicpc.net/problem/5430) | [진홍](Day42/kjh.kt) [수민](Day42/ysm.cpp) [현수](Day42/hhs.java) 희두 |
 
-## [일차](Day)
-
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
-
-## [일차](Day)
+## [43일차](Day43)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [외계인의 기타연주](https://www.acmicpc.net/problem/2841)| 진홍 수민 현수 희두 |
+
+## [44일차](Day44)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [독특한 계산기](https://www.acmicpc.net/problem/19591) | 진홍 수민 현수 희두 |
