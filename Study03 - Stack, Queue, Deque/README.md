@@ -79,7 +79,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [줄서기](https://www.acmicpc.net/problem/17178) | [진홍](Day41/kjh.kt) [수민](Day41/ysm.cpp) [현수](Day41/hhs.java) 희두 |
+| [줄서기](https://www.acmicpc.net/problem/17178) | [진홍](Day41/kjh.kt) [수민](Day41/ysm.cpp) [현수](Day41/hhs.java) [희두](Day41/jhd.cpp) |
 
 ## [42일차](Day42)
 
