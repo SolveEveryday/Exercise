@@ -1,4 +1,4 @@
-# Study4 - 우선순위큐
+# Study4 - 우선순위 큐
 > PDF 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.pdf)
 
 ## [45일차](Day45)
