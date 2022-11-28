@@ -1,17 +1,17 @@
 # Study4 - 우선순위 큐
-> PDF 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.pdf)
+> PDF 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.md)
 
 ## [45일차](Day45)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [수수께끼](https://www.acmicpc.net/problem/3362) | 진홍 수민 현수 희두 |
+| [최대 힙](https://www.acmicpc.net/problem/11279) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [46일차](Day46)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
