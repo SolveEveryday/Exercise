@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [최대 힙](https://www.acmicpc.net/problem/11279) | 진홍 수민 현수 희두 |
+| [최대 힙](https://www.acmicpc.net/problem/11279) | 진홍 [수민](Day45/ysm.cpp) 현수 희두 |
 
 ## [46일차](Day46)
 
