@@ -11,6 +11,7 @@ int plusA = 0;
 
 int main() {
 
+
     cin >> number;
     for (int x = 0; x < number; x++) {
         int value;
@@ -18,7 +19,12 @@ int main() {
         q.push(value);
     }
 
-    while (q.size() > 1) {
+    if (q.size() == 1) {
+        cout << result;
+        return 0;
+    }
+
+    while (!q.empty()) {
         if (sum.empty()) {
             tmp = q.top();
             q.pop();
@@ -27,7 +33,7 @@ int main() {
             sum.push(result);
             continue;
         }
-   
+
         plusA = sum.back() + q.top();
         sum.push(plusA);
         result += plusA;
