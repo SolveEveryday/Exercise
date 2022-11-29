@@ -91,10 +91,10 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [외계인의 기타연주](https://www.acmicpc.net/problem/2841)| [진홍](Day43/kjh.kt) 수민 [현수](Day43/hhs.java) 희두 |
+| [외계인의 기타연주](https://www.acmicpc.net/problem/2841)| [진홍](Day43/kjh.kt) [수민](Day43/ysm.cpp) [현수](Day43/hhs.java) 희두 |
 
 ## [44일차](Day44)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [독특한 계산기](https://www.acmicpc.net/problem/19591) | [진홍](Day44/kjh.kt) [수민](Day44/ysm.cpp) 현수 희두 |
+| [독특한 계산기](https://www.acmicpc.net/problem/19591) | [진홍](Day44/kjh.kt) [수민](Day44/ysm.cpp) [현수](Day44/hhs.java) 희두 |
