@@ -6,7 +6,7 @@ priority_queue<int, vector<int>, greater<int> > q;
 queue<int> sum;
 int number;
 int result = 0;
-int tmp = 0;
+int first, second;
 int plusA = 0;
 
 int main() {
@@ -24,20 +24,13 @@ int main() {
         return 0;
     }
 
-    while (!q.empty()) {
-        if (sum.empty()) {
-            tmp = q.top();
-            q.pop();
-            result = tmp + q.top();
-            q.pop();
-            sum.push(result);
-            continue;
-        }
-
-        plusA = sum.back() + q.top();
-        sum.push(plusA);
-        result += plusA;
+    while (q.size() > 1) {
+        first = q.top();
         q.pop();
+        second = q.top();
+        q.pop();
+        result += first + second;
+        q.push(first + second);
     }
 
     cout << result;
