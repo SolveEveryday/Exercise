@@ -2,7 +2,7 @@
 using namespace std;   
 typedef long long ll;     
 int a[100004], b, c, psum[100004], n ,m, sum;
-priority_queue<int,vector<int>, greater<int>> pq;
+priority_queue<int> pq;
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
