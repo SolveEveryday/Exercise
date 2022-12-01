@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [절댓값 힙](https://www.acmicpc.net/problem/11286) | [진홍](Day47/kjh.kt) 수민 [현수](Day47/hhs.java) 희두 |
+| [절댓값 힙](https://www.acmicpc.net/problem/11286) | [진홍](Day47/kjh.kt) 수민 [현수](Day47/hhs.java) [희두](Day47/jhd.cpp) |
 
 ## [48일차](Day48)
 
