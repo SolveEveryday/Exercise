@@ -23,4 +23,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | 진홍 수민 현수 희두 |
+| [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | 진홍 수민 현수 (Day48/jhd.cpp) |
