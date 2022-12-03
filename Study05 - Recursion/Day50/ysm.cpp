@@ -10,8 +10,6 @@ string third = "마을 사람들은 모두 그 선인에게 수많은 질문을 
 string fourth = "그의 답은 대부분 옳았다고 하네. 그런데 어느 날, 그 선인에게 한 선비가 찾아와서 물었어.\"\n";
 string endStr = "라고 답변하였지.\n";
 
-string repeat[51][250];
-
 void barCheck(string str, int level) {
     for (int x = 0; x < level; x++) cout << "____";
     cout << str;
