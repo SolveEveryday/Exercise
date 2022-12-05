@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Z](https://www.acmicpc.net/problem/1074) | 진홍 수민 현수 희두 |
+| [Z](https://www.acmicpc.net/problem/1074) | 진홍 수민 현수 [희두](Day52/jhd.cpp) |
 
 ## [일차](Day)
 
