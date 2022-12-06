@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int N, r,c;
+int N, r, c;
 int ans;
 
 void func(int x, int y, int size) {
