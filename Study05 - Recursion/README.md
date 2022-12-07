@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [곱셈](https://www.acmicpc.net/problem/1629) | [진홍](Day51/kjh.kt) [수민](Day51/ysm.cpp) 현수 [희두](Day51/jhd.cpp) |
+| [곱셈](https://www.acmicpc.net/problem/1629) | [진홍](Day51/kjh.kt) [수민](Day51/ysm.cpp) [현수](Day51/hhs.java) [희두](Day51/jhd.cpp) |
 
 ## [52일차](Day52)
 
@@ -23,7 +23,25 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | 진홍 수민 현수 [희두](Day53/jhd.cpp) |
+| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) 현수 [희두](Day53/jhd.cpp) |
+
+## [54일차](Day54)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | 진홍 수민 현수 희두 |
+
+## [55일차](Day55)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 진홍 수민 현수 희두 |
+
+## [일차](Day)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [문제이름](문제링크) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
