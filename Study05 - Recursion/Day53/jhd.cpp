@@ -3,19 +3,19 @@ using namespace std;
 
 void hanoi(int n, int from, int by, int to){
     if(n == 1){
-        cout << from << " " << to << endl;
+        cout << from << " " << to << "\n";
+        return;
     }
-    else {
-        hanoi(n-1,from,to,by);
-        cout << from << " " << to << endl;
-        hanoi(n-1,by,from,by);
-    }
+    hanoi(n-1,from,to,by);
+    cout << from << " " << to << "\n";
+    hanoi(n-1,by,from,by);
 }
 
 int main() {
+    ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
     int n ;
     cin >> n;
-    int k = pow(2,n) - 1;
-    cout << k << endl;
+    cout << (1<<n) -1 << "\n";
     hanoi(n,1,2,3);
+    return 0;
 }
