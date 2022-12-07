@@ -23,4 +23,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [진홍](Day48/kjh.kt) [수민](Day48/ysm.cpp) 현수 [희두](Day48/jhd.cpp) |
+| [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [진홍](Day48/kjh.kt) [수민](Day48/ysm.cpp) [현수](Day48/hhs.java) [희두](Day48/jhd.cpp) |
