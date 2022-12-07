@@ -22,7 +22,6 @@ class Solution {
         var opens = 0
         var closes = 0
         
-        var uvPoint = brackets.length
         for (i in 0..brackets.length-1) {
             if (brackets[i]== '(') {
                 opens++
@@ -31,11 +30,11 @@ class Solution {
             }
             
             if (opens == closes) {
-                uvPoint = i + 1
-                break
+                return i + 1
             }
         }
-        return uvPoint
+        
+        return brackets.length
     }
     
     fun isCorrectBracket(brackets: String): Boolean {
