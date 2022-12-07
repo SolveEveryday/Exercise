@@ -11,25 +11,25 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [곱셈](https://www.acmicpc.net/problem/1629) | 진홍 수민 현수 희두 |
+| [곱셈](https://www.acmicpc.net/problem/1629) | [진홍](Day51/kjh.kt) [수민](Day51/ysm.cpp) [현수](Day51/hhs.java) [희두](Day51/jhd.cpp) |
 
 ## [52일차](Day52)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Z](https://www.acmicpc.net/problem/1074) | 진홍 수민 현수 희두 |
+| [Z](https://www.acmicpc.net/problem/1074) | [진홍](Day52/kjh.kt) 수민 현수 희두 |
 
 ## [53일차](Day53)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) 수민 현수 희두 |
+| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) 수민 현수 [희두](Day53/jhd.cpp) |
 
-## [일차](Day)
+## [54일차](Day54)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | 진홍 수민 현수 희두 |
 
 # 회고
 
