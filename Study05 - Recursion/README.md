@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) 수민 현수 [희두](Day53/jhd.cpp) |
+| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) 현수 [희두](Day53/jhd.cpp) |
 
 ## [54일차](Day54)
 
