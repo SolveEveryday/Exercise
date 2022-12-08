@@ -1,52 +1,64 @@
 #include <string>
 #include <vector>
+#include <iostream>
 using namespace std;
 
-bool Correct(string s) {
-	int sum = 0;
-	for (int i = 0; i < s.length(); i++) {
-		if (s.at(i) == '(')
-			sum++;
-		else if (s.at(i) == ')')
-			sum--;
-		if (sum < 0)
-			return false;
-	}
-	return true;
-}
+string fun(string w) {
+	string u, v;
 
-string func(string s) {
-	if (s == "")
-		return "";
-	string u; string v;
-	int i = 0;
-	int left = 0; int right = 0;
-	for (i = 0; i < s.length(); i++) {
-		if (s.at(i) == '(')
-			left++;
-		else if (s.at(i) == ')')
-			right++;
-		if (left == right) {
-			u = s.substr(0, i + 1);
-			v = s.substr(i + 1);
+	if (w == "") return "";
+
+	for (int acnt = 0,bcnt=0, i = 0; i < w.size(); i++) {
+		if (w[i] == '(') acnt++;
+		else bcnt++;
+		if (acnt == bcnt) {
+			u = w.substr(0,i+1);
+			v = w.substr(i + 1);
 			break;
 		}
 	}
-	if (Correct(u))
-		return u + func(v);
-	else {
-		string temp = "(" + func(v) + ")";
-		u = u.substr(1, u.length() - 2);
-		for (int i = 0; i < u.length(); i++) {
-			if (u.at(i) == '(')
-				temp = temp + ')';
-			else
-				temp = temp + '(';
+
+	
+	int cnt = 0;
+	for (int i = 0; i < u.size(); i++){
+		if (cnt==0 && u[i] == ')') {
+			cnt++;
+			continue;
 		}
-		return temp;
+		if (u[i] == '(') cnt++;
+		else cnt--;
+	}
+
+	if (cnt == 0) {
+	    v = fun(v);
+	
+		return u + v;
+	}
+
+
+	else {
+		string tmp = "("; 
+		tmp += fun(v); 
+		tmp += ")"; 
+		u.erase(0,1); 
+		u.erase(u.size()-1,1);
+		for (int i = 0; i < u.size(); i++) {
+			if (u[i] == '(') u[i] = ')';
+			else u[i] = '(';
+		}
+		return tmp + u; //4.5
 	}
 }
 
 string solution(string p) {
-	return func(p);
+	string answer = "";
+	answer = fun(p);
+	return answer;
+}
+
+int main()
+{
+	cout << solution(")(") << endl;
+	cout << solution("(()())()") << endl;
+	cout << solution("()))((()");
 }
