@@ -35,7 +35,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 진홍 수민 현수 희두 |
+| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 진홍 수민 현수 [희두](Day55/jhd.cpp) |
 
 ## [56일차](Day56)
 
