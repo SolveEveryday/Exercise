@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.md) [희두](Day50/jhd.cpp) |
+| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.java) [희두](Day50/jhd.cpp) |
 
 ## [51일차](Day51)
 
@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) 현수 [희두](Day53/jhd.cpp) |
+| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) [현수](Day53/hhs.java) [희두](Day53/jhd.cpp) |
 
 ## [54일차](Day54)
 
