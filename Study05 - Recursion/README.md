@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) 수민 현수 [희두](Day54/jhd.cpp) |
+| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) [수민](Day54/ysm.cpp) 현수 [희두](Day54/jhd.cpp) |
 
 ## [55일차](Day55)
 
