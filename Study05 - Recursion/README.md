@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Z](https://www.acmicpc.net/problem/1074) | [진홍](Day52/kjh.kt) 수민 [현수](Day52/hhs.md) [희두](Day52/jhd.cpp) |
+| [Z](https://www.acmicpc.net/problem/1074) | [진홍](Day52/kjh.kt) [수민](Day52/ysm.cpp) [현수](Day52/hhs.md) [희두](Day52/jhd.cpp) |
 
 ## [53일차](Day53)
 
