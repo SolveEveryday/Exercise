@@ -1,0 +1,8 @@
+# Study6 - 완전탐색
+> 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.md)
+
+## [58일차](Day58)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.java) [희두](Day50/jhd.cpp) |
