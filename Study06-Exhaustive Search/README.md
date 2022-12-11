@@ -5,4 +5,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.java) [희두](Day50/jhd.cpp) |
+| [완전탐색](https://www.acmicpc.net/problem/2309) | 진홍 수민 현수 희두 |
