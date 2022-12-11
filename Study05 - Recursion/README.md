@@ -35,19 +35,25 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [진홍](Day55/kjh.kt) 수민 현수 희두 |
+| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [진홍](Day55/kjh.kt) [수민](Day55/ysm.cpp) [현수](Day55/hhs.java) [희두](Day55/jhd.cpp) |
 
 ## [56일차](Day56)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 [수민](Day56/ysm.cpp) 현수 희두 |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 [수민](Day56/ysm.cpp) [현수](Day56/hhs.java) [희두](Day56/jhd.cpp) |
 
 ## [57일차](Day57)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 수민 현수 희두 |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 [수민](Day57/ysm.cpp)  현수 희두 |
+
+## [58일차](Day58)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [색종이 만들기](https://www.acmicpc.net/problem/2630) | 진홍 수민 현수 희두 |
 
 # 회고
 
