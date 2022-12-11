@@ -41,7 +41,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 수민 [현수](Day56/hhs.java) [희두](Day56/jhd.cpp) |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 [수민](Day56/ysm.cpp) [현수](Day56/hhs.java) [희두](Day56/jhd.cpp) |
 
 ## [57일차](Day57)
 
