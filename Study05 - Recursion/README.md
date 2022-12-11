@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.md) [희두](Day50/jhd.cpp) |
+| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [진홍](Day50/kjh.kt) [수민](Day50/ysm.cpp) [현수](Day50/hhs.java) [희두](Day50/jhd.cpp) |
 
 ## [51일차](Day51)
 
@@ -17,25 +17,25 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [Z](https://www.acmicpc.net/problem/1074) | [진홍](Day52/kjh.kt) 수민 [현수](Day52/hhs.md) 희두 |
+| [Z](https://www.acmicpc.net/problem/1074) | [진홍](Day52/kjh.kt) [수민](Day52/ysm.cpp) [현수](Day52/hhs.md) [희두](Day52/jhd.cpp) |
 
 ## [53일차](Day53)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) 현수 [희두](Day53/jhd.cpp) |
+| [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [진홍](Day53/kjh.kt) [수민](Day53/ysm.cpp) [현수](Day53/hhs.java) [희두](Day53/jhd.cpp) |
 
 ## [54일차](Day54)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) 수민 현수 희두 |
+| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) [수민](Day54/ysm.cpp) 현수 [희두](Day54/jhd.cpp) |
 
 ## [55일차](Day55)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 진홍 [수민](Day55/ysm.cpp) 현수 희두 |
+| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [진홍](Day55/kjh.kt) [수민](Day55/ysm.cpp) 현수 희두 |
 
 ## [56일차](Day56)
 
@@ -43,11 +43,11 @@
 | -------------------- | ------------------- |
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [57일차](Day57)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 수민 현수 희두 |
 
 # 회고
 
