@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [완전탐색](https://www.acmicpc.net/problem/2309) | 진홍 수민 현수 희두 |
+| [완전탐색](https://www.acmicpc.net/problem/2309) | [진홍](Day59/kjh.kt) 수민 현수 희두 |
 
 ## [일차](Day)
 
