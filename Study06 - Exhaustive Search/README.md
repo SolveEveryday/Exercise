@@ -1,7 +1,7 @@
 # Study6 - 완전탐색
 > 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.md)
 
-## [58일차](Day58)
+## [59일차](Day59)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
