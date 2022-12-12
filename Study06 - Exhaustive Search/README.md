@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [완전탐색](https://www.acmicpc.net/problem/2309) | 진홍 수민 [현수](Day59/hhs.java) 희두 |
+| [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 진홍 수민 [현수](Day59/hhs.java) 희두 |
 
 ## [60일차](Day60)
 
