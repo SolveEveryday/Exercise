@@ -47,7 +47,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 [수민](Day57/ysm.cpp)  현수 [희두](Day57/jhd.cpp) |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [진홍](Day57/kjh.java) [수민](Day57/ysm.cpp)  현수 [희두](Day57/jhd.cpp) |
 
 ## [58일차](Day58)
 
