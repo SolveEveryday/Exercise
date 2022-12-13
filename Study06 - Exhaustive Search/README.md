@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [카드 놓기](https://www.acmicpc.net/problem/5568) | 진홍 수민 현수 희두 |
+| [카드 놓기](https://www.acmicpc.net/problem/5568) | 진홍 수민 [현수](Day60/hhs.java) 희두 |
 
 ## [일차](Day)
 
