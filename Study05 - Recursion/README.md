@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) [수민](Day54/ysm.cpp) 현수 [희두](Day54/jhd.cpp) |
+| [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [진홍](Day54/kjh.kt) [수민](Day54/ysm.cpp) [현수](Day54/hhs.java) [희두](Day54/jhd.cpp) |
 
 ## [55일차](Day55)
 
@@ -41,19 +41,19 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) | 진홍 [수민](Day56/ysm.cpp) [현수](Day56/hhs.java) [희두](Day56/jhd.cpp) |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | [진홍](Day56/kjh.kt) [수민](Day56/ysm.cpp) [현수](Day56/hhs.java) [희두](Day56/jhd.cpp) |
 
 ## [57일차](Day57)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 [수민](Day57/ysm.cpp)  현수 희두 |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [진홍](Day57/kjh.java) [수민](Day57/ysm.cpp) [현수](Day57/hhs.java) [희두](Day57/jhd.cpp) |
 
 ## [58일차](Day58)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [색종이 만들기](https://www.acmicpc.net/problem/2630) | 진홍 [수민](Day58/ysm.cpp) 현수 희두 |
+| [색종이 만들기](https://www.acmicpc.net/problem/2630) | [진홍](Day57/kjh.kt)  [수민](Day58/ysm.cpp) [현수](Day58/hhs.java) 희두 |
 
 # 회고
 
