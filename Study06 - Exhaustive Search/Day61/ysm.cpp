@@ -1,34 +1,39 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cmath>
 using namespace std;
-
-string num[10]={"0","1","2","3","4","5","6","7","8","9"};
-
-void make(vector<string>& ret, string s, int d, int pos, int n){
-    if(pos >= n){
-        ret.push_back(s);
+int N, arr[10];
+vector<long long>v;
+void func(int level, int startIdx, int last) {
+    if (level == last) {
+        long long ans = 0;
+        int p = 0;
+        for (int idx = 0; idx < 10; idx++) {
+            if (arr[idx]) {
+                ans += idx * pow(10, p);
+                p += 1;
+            }
+        }
+        v.push_back(ans);
         return;
     }
-    
-    for(int i=0; i<d; ++i){
-        make(ret, s + num[i], i, pos+1, n);
+    for (int x = startIdx; x < 10; x++) {
+        if (arr[x]) continue;
+        arr[x] = 1;
+        func(level + 1, x, last);
+        arr[x] = 0;
     }
 }
-
-int main(){
-    int k, K;
-    scanf("%d", &K);
-    if(K > 1023) return puts("-1"), 0;
-    
-    vector<string> result;
-    for(k=0; k<=K;){
-      
-        for(int i=1; i<=10; ++i){
-            vector<string> v;
-            make(v, "", 10, 0, i);
-            for(int j=0; j<v.size(); ++j) result.push_back(v[j]);
-            k += v.size();
-        }
+int main() {
+    cin >> N;
+    if (N > 1023) {
+        cout << -1;
+        return 0;
     }
-    puts(result[K-1].c_str());
-    return 0;
+    for (int x = 1; x <= 10; x++) {
+        func(0, 0, x);
+    }
+    sort(v.begin(), v.end());
+    cout << v[N - 1];
 }
