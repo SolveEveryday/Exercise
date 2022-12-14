@@ -47,13 +47,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 진홍 [수민](Day57/ysm.cpp)  현수 [희두](Day57/jhd.cpp) |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [진홍](Day57/kjh.java) [수민](Day57/ysm.cpp) [현수](Day57/hhs.java) [희두](Day57/jhd.cpp) |
 
 ## [58일차](Day58)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [색종이 만들기](https://www.acmicpc.net/problem/2630) | 진홍 수민 현수 [희두](Day58/jhd.cpp) |
+| [색종이 만들기](https://www.acmicpc.net/problem/2630) | [진홍](Day57/kjh.kt)  [수민](Day58/ysm.cpp) [현수](Day58/hhs.java) [희두](Day58/jhd.cpp) |
 
 # 회고
 
