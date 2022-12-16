@@ -29,4 +29,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 현수 희두 |
+| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 [현수](Day63/hhs.java) 희두 |
