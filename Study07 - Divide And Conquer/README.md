@@ -1,7 +1,7 @@
 # Study7 - 분할 정복
 > 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.pdf) [희두](self_study/jhd.pdf)
 
-## [64일차](Day64)
+## [65일차](Day65)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
