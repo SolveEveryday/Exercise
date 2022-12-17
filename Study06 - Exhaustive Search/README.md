@@ -29,10 +29,10 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 현수 [희두](Day63/jhd.cpp) |
+| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 현수 희두 |
 
 ## [64일차](Day64)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [날짜 계산](https://www.acmicpc.net/problem/1476) | 진홍 수민 현수 희두 |
+| [날짜 계산](https://www.acmicpc.net/problem/1476) | 진홍 수민 현수 [희두](Day64/jhd.cpp) |
