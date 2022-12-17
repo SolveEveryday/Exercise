@@ -35,4 +35,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [날짜 계산](https://www.acmicpc.net/problem/1476) | 진홍 수민 현수 희두 |
+| [날짜 계산](https://www.acmicpc.net/problem/1476) | 진홍 [수민c++](Day62/ysm.cpp) [수민java](Day62/ysm.java) 현수 희두 |
