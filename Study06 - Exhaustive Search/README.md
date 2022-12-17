@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [진홍](Day62/kjh.kt) 수민 현수 희두 |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [진홍](Day62/kjh.kt) [수민](Day62/ysm.cpp) 현수 희두 |
 
 ## [63일차](Day63)
 
