@@ -25,11 +25,11 @@
 | -------------------- | ------------------- |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [진홍](Day62/kjh.kt) [수민](Day62/ysm.cpp) [현수](Day62/hhs.java) [희두](Day62/jhd.cpp) |
 
-## [63일차](Day63)
+## [63일차](Day63)<!-- jhd -->
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 현수 희두 |
+| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 현수 [희두](Day63/jhd.cpp) |
 
 ## [64일차](Day64)
 
