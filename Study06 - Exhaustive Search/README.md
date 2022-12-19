@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 진홍 수민 [현수](Day63/hhs.java) [희두](Day63/jhd.cpp) |
+| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | [진홍](Day63/kjh.kt) 수민 [현수](Day63/hhs.java) [희두](Day63/jhd.cpp) |
 
 ## [64일차](Day64)
 
