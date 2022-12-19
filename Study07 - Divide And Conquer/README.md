@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | 진홍 수민 현수 희두 |
+| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | [진홍](Day65/kjh.kt) 수민 현수 희두 |
 
 ## [66일차](Day66)
 
