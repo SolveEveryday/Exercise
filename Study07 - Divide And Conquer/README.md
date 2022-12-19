@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [222-풀링](https://www.acmicpc.net/problem/17829) | 진홍 수민 현수 희두 |
+| [222-풀링](https://www.acmicpc.net/problem/17829) | 진홍 [수민C++](Day65/ysm.cpp) [수민Java](Day65/ysm.java)  현수 희두 |
 
 ## [일차](Day)
 
