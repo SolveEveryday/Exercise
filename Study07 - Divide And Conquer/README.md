@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [곱셈](https://www.acmicpc.net/problem/1629) | 진홍 수민 현수 희두 |
+| [곱셈](https://www.acmicpc.net/problem/1629) | [진홍](Day67/kjh.kt) 수민 현수 희두 |
 
 ## [일차](Day)
 
