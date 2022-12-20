@@ -1,23 +1,23 @@
 # Study7 - 분할 정복
-> 정리: [진홍](self_study/kjh.pdf) [수민](self_study/ysm.pdf) [현수](self_study/hhs.pdf) [희두](self_study/jhd.pdf)
+> 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.md)
 
 ## [65일차](Day65)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | 진홍 수민 현수 희두 |
+| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | [진홍](Day65/kjh.kt) 수민 현수 희두 |
 
-## [일차](Day)
-
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
-
-## [일차](Day)
+## [66일차](Day66)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [222-풀링](https://www.acmicpc.net/problem/17829) | 진홍 수민 현수 희두 |
+
+## [67일차](Day67)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [곱셈](https://www.acmicpc.net/problem/1629) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
