@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | [진홍](Day65/kjh.kt) 수민 [현수](Day65/hhs.java) [희두](Day65/jhd.cpp) |
+| [치킨 TOP N](https://www.acmicpc.net/problem/11582) | [진홍](Day65/kjh.kt) [수민C++](Day65/ysmSolve.cpp) [수민Java](Day65/ysm.java) [현수](Day65/hhs.java) [희두](Day65/jhd.cpp) |
 
 ## [66일차](Day66)
 
