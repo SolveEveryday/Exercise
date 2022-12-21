@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [칸토어 집합](https://www.acmicpc.net/problem/4779) | 진홍 수민 현수 희두 |
+| [칸토어 집합](https://www.acmicpc.net/problem/4779) | 진홍 [수민C++](Day65/ysm.cpp) [수민Java](Day65/ysm.java)  현수 희두 |
 
 ## [69일차](Day69)
 
