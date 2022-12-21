@@ -12,7 +12,7 @@ int main () {
 
     cin >> k;
 
-    // k등분합니다.
+    // k등분 하기
     int ssize = N/k;
 
     // ssize 만큼 돌고 정렬
