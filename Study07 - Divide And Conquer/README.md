@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [곱셈](https://www.acmicpc.net/problem/1629) | 진홍 [수민](Day67/ysm.java) 현수 [희두](Day67/jhd.cpp) |
+| [곱셈](https://www.acmicpc.net/problem/1629) | 진홍 [수민](Day67/ysm.java) [현수](Day67/hhs.java) [희두](Day67/jhd.cpp) |
 
 ## [68일차](Day68)
 
