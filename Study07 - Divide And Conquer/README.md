@@ -29,4 +29,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [종이의 개수](https://www.acmicpc.net/problem/1780) | 진홍 수민 현수 희두 |
+| [종이의 개수](https://www.acmicpc.net/problem/1780) | 진홍 수민 [현수](Day69/hhs.java) 희두 |
