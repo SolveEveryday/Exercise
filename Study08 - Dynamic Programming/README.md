@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [진홍](Day70/kjh.kt) [수민](Day70/ysm.cpp) 현수 희두 |
+| [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [진홍](Day70/kjh.kt) [수민](Day70/ysm.cpp) 현수 [희두](Day70/jhd.cpp) |
 
 ## [71일차](Day71)
 
