@@ -29,4 +29,5 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [종이의 개수](https://www.acmicpc.net/problem/1780) | [진홍](Day69/kjh.kt) 수민 [현수](Day69/hhs.java) [희두](Day69/jhd.cpp) |
+| [종이의 개수](https://www.acmicpc.net/problem/1780) | [진홍](Day69/kjh.kt) [수민](Day69/ysm.cpp) [현수](Day69/hhs.java) [희두](Day69/jhd.cpp) |
+
