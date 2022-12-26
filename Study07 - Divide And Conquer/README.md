@@ -23,10 +23,10 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [칸토어 집합](https://www.acmicpc.net/problem/4779) | 진홍 [수민C++](Day65/ysm.cpp) [수민Java](Day65/ysm.java)  현수 희두 |
+| [칸토어 집합](https://www.acmicpc.net/problem/4779) | [진홍](Day68/kjh.kt) [수민C++](Day65/ysm.cpp) [수민Java](Day65/ysm.java) [현수](Day68/hhs.java) [희두](Day68/jhd.cpp) |
 
 ## [69일차](Day69)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [종이의 개수](https://www.acmicpc.net/problem/1780) | [진홍](Day69/kjh.kt) 수민 현수 희두 |
+| [종이의 개수](https://www.acmicpc.net/problem/1780) | [진홍](Day69/kjh.kt) 수민 [현수](Day69/hhs.java) [희두](Day69/jhd.cpp) |
