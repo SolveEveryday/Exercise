@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [평범한 배낭](https://www.acmicpc.net/problem/12865) | *[진홍](Day72/kjh.kt)* 수민 현수 [희두](Day72/jhd.cpp) |
+| [평범한 배낭](https://www.acmicpc.net/problem/12865) | *[진홍](Day72/kjh.kt)* 수민 [현수](Day72/hhs.java) [희두](Day72/jhd.cpp) |
 
 ## [73일차](Day73)
 
