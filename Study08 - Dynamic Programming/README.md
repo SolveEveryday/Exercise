@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [계단 오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day71/kjh.kt) [수민](Day71/ysm.cpp)  현수 [희두](Day71/jhd.cpp) |
+| [계단 오르기](https://www.acmicpc.net/problem/2579) | [진홍](Day71/kjh.kt) [수민](Day71/ysm.cpp) [현수](Day71/hhs.java) [희두](Day71/jhd.cpp) |
 
 ## [72일차](Day72)
 
