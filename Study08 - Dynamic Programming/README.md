@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [RGB 거리](https://www.acmicpc.net/problem/1149) | 진홍 수민 현수 희두 |
+| [RGB 거리](https://www.acmicpc.net/problem/1149) | 진홍 [수민](Day74/ysm.cpp) 현수 희두 |
 
 ## [일차](Day)
 
