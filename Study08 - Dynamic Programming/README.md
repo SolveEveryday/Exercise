@@ -41,4 +41,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [포도주 시식](https://www.acmicpc.net/problem/2156) | 진홍 수민 현수 희두 |
+| [포도주 시식](https://www.acmicpc.net/problem/2156) | 진홍 [수민](Day76/ysm.cpp) 현수 희두 |
