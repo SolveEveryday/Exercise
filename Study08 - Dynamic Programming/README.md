@@ -29,13 +29,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [RGB 거리](https://www.acmicpc.net/problem/1149) | 진홍 수민 현수 희두 |
+| [RGB 거리](https://www.acmicpc.net/problem/1149) | [진홍](Day74/kjh.kt) [수민](Day74/ysm.cpp) [현수](Day74/hhs.java) [희두](Day74/jhd.cpp) |
 
 ## [75일차](Day75)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 진홍  [수민](Day75/ysm.cpp)  현수 희두 |
+| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 진홍 [수민](Day75/ysm.cpp) [현수](Day75/hhs.java) [희두](Day75/jhd.cpp) |
 
 ## [76일차](Day76)
 
