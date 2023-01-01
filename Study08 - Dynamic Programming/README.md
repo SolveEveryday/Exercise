@@ -35,7 +35,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 진홍 수민 [현수](Day75/hhs.java) [희두](Day75/jhd.cpp) |
+| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 진홍 [수민](Day75/ysm.cpp) [현수](Day75/hhs.java) [희두](Day75/jhd.cpp) |
 
 ## [76일차](Day76)
 
