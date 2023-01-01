@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | 진홍 수민 현수 희두 |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | [진홍](Day78/kjh.kt) 수민 현수 희두 |
 
 ## [일차](Day)
 
