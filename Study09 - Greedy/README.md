@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 ](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 희두 |
+| [팰린드롬 ](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 [희두](Day79/jhd.cpp) |
 
 ## [일차](Day)
 
