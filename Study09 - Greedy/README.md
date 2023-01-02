@@ -1,11 +1,11 @@
 # Study09 - Greedy
-> 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.pdf) [현수](self_study/hhs.pdf) [희두](self_study/jhd.pdf)
+> 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.pdf) [현수](self_study/hhs.md) [희두](self_study/jhd.pdf)
 
 ## [77일차](Day77)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [국회의원 선거](https://www.acmicpc.net/problem/1417) | 진홍 수민 현수 [희두](Day77/jhd.cpp) |
+| [국회의원 선거](https://www.acmicpc.net/problem/1417) | [진홍](Day77/kjh.kt) 수민 현수 [희두](Day77/jhd.cpp) |
 
 ## [78일차](Day78)
 
@@ -13,11 +13,17 @@
 | -------------------- | ------------------- |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [79일차](Day79)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 희두 |
+
+## [80일차](Day80)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [주식](https://www.acmicpc.net/problem/11501) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
