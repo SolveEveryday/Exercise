@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [국회의원 선거](https://www.acmicpc.net/problem/1417) | [진홍](Day77/kjh.kt) [수민](Day77/ysm.cpp) 현수 [희두](Day77/jhd.cpp) |
+| [국회의원 선거](https://www.acmicpc.net/problem/1417) | [진홍](Day77/kjh.kt) [수민](Day77/ysm.cpp) [현수](Day77/hhs.java) [희두](Day77/jhd.cpp) |
 
 ## [78일차](Day78)
 
