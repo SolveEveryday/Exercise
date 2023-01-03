@@ -35,10 +35,10 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 진홍 수민 현수 [희두](Day75/jhd.cpp) |
+| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [진홍](Day75/kjh.kt) [수민](Day75/ysm.cpp) [현수](Day75/hhs.java) [희두](Day75/jhd.cpp) |
 
 ## [76일차](Day76)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [포도주 시식](https://www.acmicpc.net/problem/2156) | 진홍 수민 현수 희두 |
+| [포도주 시식](https://www.acmicpc.net/problem/2156) | [진홍](Day76/kjh.kt) [수민](Day76/ysm.cpp) [현수](Day76/hhs.java) 희두 |
