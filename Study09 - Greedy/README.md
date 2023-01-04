@@ -5,19 +5,25 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [국회의원 선거](https://www.acmicpc.net/problem/1417) | [진홍](Day77/kjh.kt) 수민 현수 희두 |
+| [국회의원 선거](https://www.acmicpc.net/problem/1417) | [진홍](Day77/kjh.kt) [수민](Day77/ysm.cpp) [현수](Day77/hhs.java) [희두](Day77/jhd.cpp) |
 
 ## [78일차](Day78)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | 진홍 수민 현수 [희두](Day78/jhd.cpp) |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | [진홍](Day78/kjh.kt) [수민](Day78/ysm.cpp) 현수 [희두](Day78/jhd.cpp) |
 
 ## [79일차](Day79)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 ](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 희두 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍 수민 현수 희두 |
+
+## [80일차](Day80)
+
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [주식](https://www.acmicpc.net/problem/11501) | 진홍 수민 현수 희두 |
 
 ## [일차](Day)
 
