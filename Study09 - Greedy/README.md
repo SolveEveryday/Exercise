@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [주식](https://www.acmicpc.net/problem/11501) | 진홍 수민 현수 희두 |
+| [주식](https://www.acmicpc.net/problem/11501) | 진홍 [수민](Day80/ysm.cpp) 현수 희두 |
 
 ## [81일차](Day81)
 
