@@ -11,13 +11,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | [진홍](Day78/kjh.kt) [수민](Day78/ysm.cpp) 현수 희두 |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | [진홍](Day78/kjh.kt) [수민](Day78/ysm.cpp) [현수](Day78/hhs.java) [희두](Day78/jhd.cpp) |
 
 ## [79일차](Day79)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍 [수민](Day79/ysm2.cpp) 현수 희두 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍  [수민](Day79/ysm2.cpp) [현수](Day79/hhs.java) 희두 |
 
 ## [80일차](Day80)
 
@@ -25,14 +25,14 @@
 | -------------------- | ------------------- |
 | [주식](https://www.acmicpc.net/problem/11501) | 진홍 수민 현수 희두 |
 
-## [일차](Day)
+## [81일차](Day81)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍 수민 현수 |
 
-## [일차](Day)
+## [82일차](Day82)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [문제이름](문제링크) | 진홍 수민 현수 희두 |
+| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍 수민 현수 |
