@@ -35,7 +35,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍 수민 현수 |
+| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍 수민 [현수](Day82/hhs.java) |
 
 ## [83일차](Day83)
 
