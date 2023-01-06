@@ -1,30 +1,27 @@
-#include<bits/stdc++.h>
-using namespace std;
-typedef long long ll;
-int test_case,days;
-ll result,a,max_r;
-
+#include<bits/stdc++.h> 
+using namespace std; 
+string s, ret; 
+int cnt[200], flag; 
+char mid;
 int main() {
-// 기본적인 개념은 맨 뒤부터 최대값을 찾아서 
-cin >> test_case;
-for(int i = 0; i < test_case; i++) {
-  vector<long long> arr;
-  
-  cin >> days;
-  for(int j = 0 ; j < days; j++) {
-    cin >> a;
-    arr.push_back(a);
-  }
-
-  max_r = -1;
-  result = 0;
-  for(int j = days - 1; j >= 0; j--) {
-    max_r = max(max_r,arr[j]);
-    result += max_r - arr[j];
-  }
-
-  cout << result << "\n";
-}
-
-return 0;
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cin >> s;
+	for(char a : s)cnt[a]++;
+	for(int i = 'Z'; i >= 'A'; i--){
+		if(cnt[i]){
+			if(cnt[i] & 1){
+				mid = char(i);flag++;
+				cnt[i]--;
+			}
+			if(flag == 2)break;
+			for(int j = 0; j < cnt[i]; j += 2){
+				ret = char(i) + ret; 
+				ret += char(i);
+			}
+		}
+	}
+	if(mid)ret.insert(ret.begin() + ret.size() / 2, mid);
+	if(flag == 2)cout << "I'm Sorry Hansoo\n";
+	else cout << ret << "\n"; 
 }
