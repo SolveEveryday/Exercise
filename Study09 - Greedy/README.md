@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍 수민 현수 |
+| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍 [수민](Day81/ysm2.cpp) 현수 |
 
 ## [82일차](Day82)
 
