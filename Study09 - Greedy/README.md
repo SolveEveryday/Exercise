@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 진홍  [수민](Day79/ysm2.cpp) [현수](Day79/hhs.java) [희두](Day79/jhd.cpp) |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [진홍](Day79/kjh.kt)  [수민](Day79/ysm2.cpp) [현수](Day79/hhs.java) [희두](Day79/jhd.cpp) |
 
 ## [80일차](Day80)
 
