@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [주식](https://www.acmicpc.net/problem/11501) | [진홍](Day80/kjh.kt) [수민](Day80/ysm.cpp) 현수 |
+| [주식](https://www.acmicpc.net/problem/11501) | [진홍](Day80/kjh.kt) [수민](Day80/ysm.cpp) [현수](Day80/hhs.java) |
 
 ## [81일차](Day81)
 
