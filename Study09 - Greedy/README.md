@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍([재풀이](Day81/kjh.java) *[모범답안](Day81/kjh.py)*) 수민 [현수](Day81/hhs.java) |
+| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍([재풀이](Day81/kjh.java) *[모범답안](Day81/kjh.py)*) [수민](Day81/ysm2.cpp) [현수](Day81/hhs.java) |
 
 ## [82일차](Day82)
 
