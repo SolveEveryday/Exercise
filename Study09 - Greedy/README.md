@@ -41,7 +41,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 [수민](Day83/ysm.cpp) 현수 |
+| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 [수민](Day83/ysmC.cpp) 현수 |
 
 ## [84일차](Day84)
 
