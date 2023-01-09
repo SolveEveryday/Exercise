@@ -41,7 +41,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 수민 [현수](Day83/hhs.java) |
+| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 수민 현수([그리디](Day83/hhs.java) [브루트포스](Day83/hhs-dfs.java)) |
 
 ## [84일차](Day84)
 
