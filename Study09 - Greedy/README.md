@@ -35,7 +35,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A와 B](https://www.acmicpc.net/problem/12904) | [진홍_재풀이](Day82/kjh.kt) 수민 현수 |
+| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍([재풀이](Day82/kjh.kt) *[모범답안](Day82/kjh.cpp)*) 수민 현수 |
 
 ## [83일차](Day83)
 
