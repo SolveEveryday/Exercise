@@ -35,13 +35,13 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍([재풀이](Day82/kjh.kt) *[모범답안](Day82/kjh.cpp)*) [수민](Day82/ysm2.cpp) 현수 |
+| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍([재풀이](Day82/kjh.kt) *[모범답안](Day82/kjh.cpp)*) [수민](Day82/ysm2.cpp) [현수](Day82/hhs.java) |
 
 ## [83일차](Day83)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 [수민](Day83/ysmC.cpp) 현수 |
+| [단어 수학](https://www.acmicpc.net/problem/1339) | [진홍](Day83/kjh.kt) [수민](Day83/ysmC.cpp) 현수 |
 
 ## [84일차](Day84)
 
