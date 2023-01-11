@@ -29,19 +29,19 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍([재풀이](Day81/kjh.java) *[모범답안](Day81/kjh.py)*) 수민 [현수](Day81/hhs.java) |
+| [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 진홍([재풀이](Day81/kjh.java) *[모범답안](Day81/kjh.py)*) [수민](Day81/ysm2.cpp) [현수](Day81/hhs.java) |
 
 ## [82일차](Day82)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A와 B](https://www.acmicpc.net/problem/12904) | [진홍_재풀이](Day82/kjh.kt) 수민 현수 |
+| [A와 B](https://www.acmicpc.net/problem/12904) | 진홍([재풀이](Day82/kjh.kt) *[모범답안](Day82/kjh.cpp)*) [수민](Day82/ysm2.cpp) [현수](Day82/hhs.java) |
 
 ## [83일차](Day83)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 수민 현수([그리디](Day83/hhs.java) [브루트포스](Day83/hhs-dfs.java)) |
+| [단어 수학](https://www.acmicpc.net/problem/1339) | [진홍](Day83/kjh.kt) [수민](Day83/ysmC.cpp) 현수([그리디](Day83/hhs.java) [브루트포스](Day83/hhs-dfs.java)) |
 
 ## [84일차](Day84)
 
