@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [바이러스](https://www.acmicpc.net/problem/2606) | 진홍 수민 현수 지우 |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 진홍 수민 [현수](Day86/hhs.java) 지우 |
 
 ## [일차](Day)
 
