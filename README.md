@@ -1,6 +1,6 @@
 # SolveEveryday
 
-## 🧑‍💻 스터디원
+## 🧑‍💻 현 스터디원
 <table>
   <tr>
     <td align="center">
@@ -25,10 +25,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jhd7130">
-        <img src="https://avatars.githubusercontent.com/u/78134917?v=4" width="100px;" />
+      <a href="https://github.com/kakjzi">
+        <img src="https://avatars.githubusercontent.com/u/82758364?v=4" width="100px;" />
         <br />
-        정희두
+        신지우
       </a>
     </td>
   </tr>
