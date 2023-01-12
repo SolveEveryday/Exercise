@@ -47,4 +47,5 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [진홍](Day84/kjh.kt) 수민 [현수](Day84/hhs.java) |
+| [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [진홍](Day84/kjh.kt) [수민](Day84/ysmC.cpp) [현수](Day84/hhs.java) |
+
