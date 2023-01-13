@@ -41,10 +41,11 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [단어 수학](https://www.acmicpc.net/problem/1339) | 진홍 수민 현수 |
+| [단어 수학](https://www.acmicpc.net/problem/1339) | [진홍](Day83/kjh.kt) [수민](Day83/ysmC.cpp) 현수([그리디](Day83/hhs.java) [브루트포스](Day83/hhs-dfs.java)) |
 
 ## [84일차](Day84)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 진홍 수민 현수 |
+| [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [진홍](Day84/kjh.kt) [수민](Day84/ysmC.cpp) [현수](Day84/hhs.java) |
+
