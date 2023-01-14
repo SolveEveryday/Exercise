@@ -21,9 +21,9 @@
 
 ## [88일차](Day88)
 
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 진홍 수민 현수 지우 |
+| 문제                 | 답안                            |
+| -------------------- |-------------------------------|
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 진홍 수민 현수 [지우](Day88/sjw.java) |
 
 ## [89일차](Day89)
 
