@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | [진홍](Day85/kjh.kt) [수민](Day85/ysmC.cpp) [현수](Day85/hhs.java) 지우 |
+| [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | [진홍](Day85/kjh.kt) [수민](Day85/ysmC.cpp) [현수](Day85/hhs.java) [지우](Day85/sjw.java) |
 
 ## [86일차](Day86)
 
