@@ -29,4 +29,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [ABCDE](https://www.acmicpc.net/problem/13023) | 진홍 수민 현수 지우 |
+| [ABCDE](https://www.acmicpc.net/problem/13023) | 진홍 [수민](Day89/ysmC.cpp) 현수 지우 |
