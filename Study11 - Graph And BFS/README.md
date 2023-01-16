@@ -1,5 +1,5 @@
 # Study11 - Graph And BFS
-> 정리: 진홍 수민 현수 [지우](self_study/sjw.md)
+> 정리: [진홍](self_study/kjh.md) 수민 현수 [지우](self_study/sjw.md)
 
 ## [90일차](90Day)
 
