@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A → B](https://www.acmicpc.net/problem/16953) | 진홍 수민 현수 지우 |
+| [A → B](https://www.acmicpc.net/problem/16953) | 진홍 수민 [현수](Day91/hhs.java) 지우 |
 
 ## [일차](Day)
 
