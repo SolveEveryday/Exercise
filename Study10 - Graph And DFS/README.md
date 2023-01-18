@@ -29,7 +29,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [ABCDE](https://www.acmicpc.net/problem/13023) | 진홍 [수민](Day89/ysmC.cpp) 현수 [지우](Day89/sjw.java) |
+| [ABCDE](https://www.acmicpc.net/problem/13023) | [진홍](Day89/kjh.kt) [수민](Day89/ysmC.cpp) 현수 [지우](Day89/sjw.java) |
 
 # 회고 내용
 
