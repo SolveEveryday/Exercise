@@ -17,19 +17,19 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | [진홍](Day87/kjh.kt) 수민 [현수](Day87/hhs.java) [지우](Day87/sjw.java) |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | [진홍](Day87/kjh.kt) [수민](Day87/ysmC.cpp) [현수](Day87/hhs.java) [지우](Day87/sjw.java) |
 
 ## [88일차](Day88)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 진홍 수민 현수 지우 |
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [진홍](Day88/kjh.kt) [수민](Day88/ysm.cpp) [현수](Day88/hhs.java) [지우](Day88/sjw.java) |
 
 ## [89일차](Day89)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [ABCDE](https://www.acmicpc.net/problem/13023) | 진홍 수민 현수 지우 |
+| [ABCDE](https://www.acmicpc.net/problem/13023) | [진홍](Day89/kjh.kt) [수민](Day89/ysmC.cpp) [현수](Day89/hhs.java) [지우](Day89/sjw.java) |
 
 # 회고 내용
 
