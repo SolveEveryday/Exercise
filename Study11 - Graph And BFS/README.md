@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | 진홍 [수민](Day90/ysmC.cpp) [현수](Day90/hhs.java) [지우](Day90/sjw.java) |
+| [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | [진홍](Day90/kjh.kt) [수민](Day90/ysmC.cpp) [현수](Day90/hhs.java) [지우](Day90/sjw.java) |
 
 ## [91일차](Day91)
 
