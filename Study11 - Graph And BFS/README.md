@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A → B](https://www.acmicpc.net/problem/16953) | [진홍](Day91/kjh.kt) [수민](Day91/ysmC.cpp) 현수 지우 |
+| [A → B](https://www.acmicpc.net/problem/16953) | [진홍](Day91/kjh.kt) [수민](Day91/ysmC.cpp) [현수](Day91/hhs.java) 지우 |
 
 ## [92일차](Day92)
 
