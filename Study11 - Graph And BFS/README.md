@@ -11,19 +11,19 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [A → B](https://www.acmicpc.net/problem/16953) | [진홍](Day91/kjh.kt) 수민 현수 지우 |
+| [A → B](https://www.acmicpc.net/problem/16953) | [진홍](Day91/kjh.kt) [수민](Day91/ysmC.cpp) [현수](Day91/hhs.java) [지우](Day91/sjw.java) |
 
 ## [92일차](Day92)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | 진홍 수민 현수 지우 |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | [진홍](Day92/kjh.kt) [수민](Day92/ysmC.cpp) [현수](Day92/hhs.java) [지우](Day92/sjw.java) |
 
 ## [93일차](Day93)
 
-| 문제                 | 답안                            |
-| -------------------- |-------------------------------|
-| [인구 이동](https://www.acmicpc.net/problem/16234) | 진홍 수민 현수 [지우](Day93/sjw.java) |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [인구 이동](https://www.acmicpc.net/problem/16234) | [진홍](Day93/kjh.java) 수민 현수 [지우](Day93/sjw.java) |
 
 ## [94일차](Day94)
 
