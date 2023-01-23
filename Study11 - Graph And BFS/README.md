@@ -17,7 +17,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | [진홍](Day92/kjh.kt) [수민](Day92/ysmC.cpp) [현수](Day92/hhs.java) 지우 |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | [진홍](Day92/kjh.kt) [수민](Day92/ysmC.cpp) [현수](Day92/hhs.java) [지우](Day92/sjw.java) |
 
 ## [93일차](Day93)
 
