@@ -35,4 +35,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | 진홍 수민 현수 지우 |
+| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | [진홍](Day95/kjh.kt) 수민 현수 지우 |
