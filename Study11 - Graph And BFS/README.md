@@ -23,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [인구 이동](https://www.acmicpc.net/problem/16234) | [진홍](Day93/kjh.java) 수민 [현수](Day93/hhs.java) [지우](Day93/sjw.java) |
+| [인구 이동](https://www.acmicpc.net/problem/16234) | [진홍](Day93/kjh.java) [수민](Day92/ysmReC.cpp) [현수](Day93/hhs.java) [지우](Day93/sjw.java) |
 
 ## [94일차](Day94)
 
