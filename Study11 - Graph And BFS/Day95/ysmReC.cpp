@@ -5,10 +5,10 @@
 using namespace std;
 
 int dir[4][2] = {
-	-1,0,
-	1,0,
-	0,-1,
-	0,1
+	-1,0,//상
+	1,0,//하
+	0,-1,//좌
+	0,1//우
 	
 };
 
@@ -17,7 +17,7 @@ struct MoveM {
 	int direction;
 	int cost;
 };
-int answer[4][26][26];
+int costMap[4][26][26];
 
 int solution(vector<vector<int>> board) {
 	int result = 9999999;
@@ -27,7 +27,7 @@ int solution(vector<vector<int>> board) {
 	q.push({ 0,0,3,0 });
 
 	
-	memset(answer, 9999999, sizeof(answer));
+	memset(costMap, 9999999, sizeof(costMap));
 	while (!q.empty()) {
 		MoveM now = q.front();
 		q.pop();
@@ -46,8 +46,8 @@ int solution(vector<vector<int>> board) {
 			if (x == now.direction || now.direction == 5) money = now.cost + 100;
 			else money = now.cost + 600;
 
-			if ( money <= answer[x][dy][dx]) {
-				answer[x][dy][dx] = money;
+			if ( money <= costMap[x][dy][dx]) {
+				costMap[x][dy][dx] = money;
 				q.push({ dy,dx,x, money});
 			}
 		}
