@@ -33,6 +33,6 @@
 
 ## [95일차](Day95) - 코딩테스트 기출문제
 
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | 진홍 수민 현수 지우 |
+| 문제                 | 답안                            |
+| -------------------- |-------------------------------|
+| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | [진홍](Day95/kjh.kt) 수민 [현수](Day95/hhs.java) [지우](Day95/sjw.java) |
