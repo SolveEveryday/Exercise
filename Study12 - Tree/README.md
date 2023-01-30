@@ -5,7 +5,8 @@
 
 | 문제                 | 답안                          |
 | -------------------- |-----------------------------|
-| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) 수민 현수 [지우](Day96/sjw.md) |
+| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) [수민](Day96/ysm.cpp) 현수 [지우](Day96/sjw.md) |
+
 
 ## [97일차](Day97)
 
