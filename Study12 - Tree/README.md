@@ -14,10 +14,9 @@
 | [파일 구별하기](https://www.acmicpc.net/problem/2371) | [진홍](Day97/kjh.kt) [수민](Day97/ysmC.cpp) 현수 [지우](Day97/sjw.java) |
 
 ## [98일차](Day98)
-
 | 문제                 | 답안                            |
 | -------------------- |-------------------------------|
-| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) 수민 현수 [지우](Day98/sjw.java) |
+| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) 수민 [현수](Day98/hhs.java) [지우](Day98/sjw.java) |
 
 ## [99일차](Day99)
 
