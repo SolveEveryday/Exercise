@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                            |
 | -------------------- |-------------------------------|
-| [파일 구별하기](https://www.acmicpc.net/problem/2371) | [진홍](Day97/kjh.kt) [수민](Day97/ysmC.cpp) 현수 [지우](Day97/sjw.java) |
+| [파일 구별하기](https://www.acmicpc.net/problem/2371) | [진홍](Day97/kjh.kt) [수민](Day97/ysmC.cpp) [현수](Day97/hhs.java) [지우](Day97/sjw.java) |
 
 ## [98일차](Day98)
 | 문제                 | 답안                            |
