@@ -1,8 +1,3 @@
-package Study12 - Tree.Day101;
-
-public class hhs {
-    
-}
 package BOJ_15681;
 
 import java.io.*;
@@ -52,8 +47,11 @@ public class Main {
 
         dfs(R);
 
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < Q; i++) {
-            System.out.println(count[Integer.parseInt(br.readLine())]);
+            sb.append(count[Integer.parseInt(br.readLine())]).append('\n');
         }
+
+        System.out.println(sb);
     }
 }
