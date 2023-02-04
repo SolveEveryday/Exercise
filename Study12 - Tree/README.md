@@ -22,7 +22,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리 순회](https://www.acmicpc.net/problem/1991) | 진홍 수민 [현수](Day96/hhs.java) 지우 |
+| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) 수민 [현수](Day96/hhs.java) 지우 |
 
 ## [100일차](Day100)
 
