@@ -28,7 +28,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [진홍](Day100/kjh.kt) 수민 현수 지우 |
+| [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [진홍](Day100/kjh.kt) [수민](Day100/ysmC.cpp) 현수 지우 |
 
 ## [101일차](Day101)
 
