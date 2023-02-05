@@ -34,7 +34,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 진홍 [수민](Day101/ysmC.cpp) 현수 [지우](Day101/sjw.java) |
+| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | [진홍](Day101/kjh.kt) [수민](Day101/ysmC.cpp) 현수 [지우](Day101/sjw.java) |
 
 
 ## [102일차](Day102)
