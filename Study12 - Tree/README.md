@@ -16,13 +16,13 @@
 ## [98일차](Day98)
 | 문제                 | 답안                            |
 | -------------------- |-------------------------------|
-| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) 수민 [현수](Day98/hhs.java) [지우](Day98/sjw.java) |
+| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) [수민](Day98/ysmC.cpp) [현수](Day98/hhs.java) [지우](Day98/sjw.java) |
 
 ## [99일차](Day99)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) 수민 [현수](Day96/hhs.java) 지우 |
+| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) [수민](Day99/ysmC.cpp) [현수](Day96/hhs.java) 지우 |
 
 ## [100일차](Day100)
 
@@ -34,7 +34,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 진홍 [수민](Day98/ysm.cpp) 현수 지우 |
+| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 진홍 [수민](Day101/ysmC.cpp) 현수 지우 |
 
 ## [102일차](Day102)
 
