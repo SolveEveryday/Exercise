@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-import java.util.Map.Entry;
 
 public class Main {
 
@@ -14,52 +13,46 @@ public class Main {
         n = Integer.parseInt(st.nextToken());
         k = Integer.parseInt(st.nextToken());
 
-        if (n >= k) {
-            System.out.println(n - k);
-        } else {
-            System.out.println(bfs());
-        }
+        System.out.println(bfs());
     }
 
     public static int bfs() {
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] visited = new boolean[1000001];
-        int[] time = new int[1000001];
-        Arrays.fill(time, Integer.MAX_VALUE);
+        if(n == k) return 0;
 
-        q.add(n);
+        boolean[] visited = new boolean[100001];
+        LinkedList<Point> q = new LinkedList<>();
+
+        q.add(new Point(n, 0)); // 위치, 시간
         visited[n] = true;
-        time[n] = 0;
 
         while (!q.isEmpty()) {
-            int curr = q.poll();
+            Point point = q.poll();
+            visited[point.pos] = true;
 
-            if (curr == k) {
-                return time[curr];
+            if(point.pos == k) return point.time;
+
+            if (point.pos * 2 <= 100000 && !visited[point.pos * 2]) {
+                q.add(new Point(point.pos * 2, point.time));
             }
 
-            int left = curr - 1;
-            if (left >= 0 && !visited[left]) {
-                q.add(left);
-                visited[left] = true;
-                time[left] = time[curr] + 1;
+            if (point.pos -1 >= 0  && !visited[point.pos -1]) {
+                q.add(new Point(point.pos - 1, point.time + 1));
+            }
+            if (point.pos + 1 <=100000 && !visited[point.pos + 1]) {
+                q.add(new Point(point.pos + 1, point.time + 1));
             }
 
-            int right = curr + 1;
-            if (right <= 1000000 && !visited[right]) {
-                q.add(right);
-                visited[right] = true;
-                time[right] = time[curr] + 1;
-            }
-
-            int teleport = curr * 2;
-            if (teleport <= 1000000 && !visited[teleport]) {
-                q.add(teleport);
-                visited[teleport] = true;
-                time[teleport] = time[curr];
-            }
         }
-
         return -1;
+    }
+
+    static class Point{
+        int pos;
+        int time;
+
+        public Point(int pos, int time) {
+            this.pos = pos;
+            this.time = time;
+        }
     }
 }
