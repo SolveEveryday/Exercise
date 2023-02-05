@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                          |
 | -------------------- |-----------------------------|
-| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) [수민](Day96/ysm.cpp) 현수 [지우](Day96/sjw.md) |
+| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) [수민](Day96/ysm.cpp) [현수](Day96/hhs.java) [지우](Day96/sjw.md) |
 
 ## [97일차](Day97)
 
@@ -22,7 +22,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) [수민](Day99/ysmC.cpp) [현수](Day96/hhs.java) 지우 |
+| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) [수민](Day99/ysmC.cpp) [현수](Day99/hhs.java) 지우 |
 
 ## [100일차](Day100)
 
