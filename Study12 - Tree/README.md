@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                          |
 | -------------------- |-----------------------------|
-| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) [수민](Day96/ysm.cpp) 현수 [지우](Day96/sjw.md) |
+| [상근이의 여행](https://www.acmicpc.net/problem/9372) | [진홍](Day96/kjh.kt) [수민](Day96/ysm.cpp) [현수](Day96/hhs.java) [지우](Day96/sjw.md) |
 
 ## [97일차](Day97)
 
@@ -16,31 +16,31 @@
 ## [98일차](Day98)
 | 문제                 | 답안                            |
 | -------------------- |-------------------------------|
-| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) 수민 [현수](Day98/hhs.java) [지우](Day98/sjw.java) |
+| [너구리 구구](https://www.acmicpc.net/problem/18126) | [진홍](Day98/kjh.kt) [수민](Day98/ysmC.cpp) [현수](Day98/hhs.java) [지우](Day98/sjw.java) |
 
 ## [99일차](Day99)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) 수민 [현수](Day96/hhs.java) 지우 |
+| [트리 순회](https://www.acmicpc.net/problem/1991) | [진홍](Day99/kjh.kt) [수민](Day99/ysmC.cpp) [현수](Day99/hhs.java) [지우](Day99/sjw.java) |
 
 ## [100일차](Day100)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [진홍](Day100/kjh.kt) 수민 현수 지우 |
+| [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [진홍](Day100/kjh.kt) [수민](Day100/ysmC.cpp) [현수](Day100/hhs.java) [지우](Day100/sjw.java) |
 
 ## [101일차](Day101)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 진홍 수민 현수 지우 |
+| [트리와 쿼리](https://www.acmicpc.net/problem/15681) | [진홍](Day101/kjh.kt) [수민](Day101/ysmC.cpp) [현수](Day101/hhs.java) [지우](Day101/sjw.java) |
 
 ## [102일차](Day102)
 
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | 진홍 수민 현수 지우 |
+| 문제                 | 답안                             |
+| -------------------- |--------------------------------|
+| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | 진홍 수민 현수 [지우](Day102/sjw.java) |
 
 ## [103일차](Day103)
 
@@ -52,7 +52,7 @@
 
 | 문제                 | 답안                             |
 | -------------------- |--------------------------------|
-| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 진홍 수민 현수 [지우](Day104/sjw.java) |
+| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [진홍](Day104/kjh.kt) 수민 현수 [지우](Day104/sjw.java) |
 
 ## 회고
 
