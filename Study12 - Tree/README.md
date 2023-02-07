@@ -46,7 +46,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리의 지름](https://www.acmicpc.net/problem/1967) | [진홍](Day103/kjh.kt) 수민 현수 지우 |
+| [트리의 지름](https://www.acmicpc.net/problem/1967) | [진홍](Day103/kjh.kt) 수민 현수 [지우](Day103.sjw.java) |
 
 ## [104일차](Day104) - 코딩테스트 기출문제
 
