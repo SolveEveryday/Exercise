@@ -52,7 +52,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 진홍 수민 현수 지우 |
+| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [진홍](Day104/kjh.kt) 수민 현수 지우 |
 
 ## 회고
 
