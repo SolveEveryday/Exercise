@@ -40,7 +40,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [진홍](Day102/kjh.kt) 수민 현수([dfs 풀이법](Day102/hhs1.java), [다익스트라 풀이법](Day102/hhs2.java)) 지우 |
+| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [진홍](Day102/kjh.kt) [수민](Day102/ysmC.cpp) 현수([dfs 풀이법](Day102/hhs1.java), [다익스트라 풀이법](Day102/hhs2.java)) 지우 |
 
 ## [103일차](Day103)
 
