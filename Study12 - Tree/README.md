@@ -38,21 +38,21 @@
 
 ## [102일차](Day102)
 
-| 문제                 | 답안                             |
-| -------------------- |--------------------------------|
-| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | 진홍 수민 현수 [지우](Day102/sjw.java) |
+| 문제                 | 답안                |
+| -------------------- | ------------------- |
+| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [진홍](Day102/kjh.kt) [수민](Day102/ysmC.cpp) 현수([dfs 풀이법](Day102/hhs1.java), [다익스트라 풀이법](Day102/hhs2.java)) 지우 |
 
 ## [103일차](Day103)
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [트리의 지름](https://www.acmicpc.net/problem/1967) | 진홍 수민 현수 지우 |
+| [트리의 지름](https://www.acmicpc.net/problem/1967) | [진홍](Day103/kjh.kt) [수민](Day103/ysmC.cpp [현수](Day103/hhs.java) [지우](Day103.sjw.java) |
 
 ## [104일차](Day104) - 코딩테스트 기출문제
 
-| 문제                 | 답안                |
-| -------------------- | ------------------- |
-| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 진홍 수민 현수 지우 |
+| 문제                 | 답안                             |
+| -------------------- |--------------------------------|
+| [길찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [진홍](Day104/kjh.kt) 수민 현수 [지우](Day104/sjw.java) |
 
 ## 회고
 
