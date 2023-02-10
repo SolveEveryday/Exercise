@@ -5,7 +5,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 진홍 [수민](Day105/ysmC.cpp)  현수 [지우](Day105/sjw.java) |
+| [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [진홍](Day105/kjh.kt) [수민](Day105/ysmC.cpp)  현수 [지우](Day105/sjw.java) |
 
 ## [106일차](Day106)
 
