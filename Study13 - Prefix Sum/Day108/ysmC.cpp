@@ -1,29 +1,37 @@
 #include <iostream>
 using namespace std;
 
+int arr[50001] = {0,};
+
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(NULL); cout.tie(NULL);
-	
-	string s; cin >> s;
-	
-	int sum[26][200001] = {0,};
-	for(int i=0;i<s.length();i++){
-		sum[s[i] - 'a'][i+1]++;
-	}
-	
-	for(int i=1;i<=s.length();i++){
-		for(int j=0;j<26;j++){
-			sum[j][i] = sum[j][i-1] + sum[j][i];
-		}
-	}
-	
-	int n; cin >> n;
-	for(int i=0;i<n;i++){
-		char a; cin >> a;
-		int b, c; cin >> b >> c;
-		cout << sum[a - 'a'][c+1] - sum[a - 'a'][b] << '\n';
-	}
-	
-	return 0;
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int n;
+    cin >> n;
+    int sum = 0;
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+        sum += arr[i];
+    }
+    int a = 0;
+    int b = 1;
+    int sumA = arr[0];
+    int sumB = sum-arr[0];
+    int answer = 0;
+    while (a<n) {
+        answer = max(answer, min(sumA, sumB));
+        if (sumA >= sumB) {
+            sumA-=arr[a];
+            sumB+=arr[a];
+            a++;
+            continue;
+        }
+        sumA+=arr[b];
+        sumB-=arr[b];
+        b++;
+        b%=n;
+    }
+    cout << answer;
+    return 0;
 }
