@@ -11,7 +11,7 @@
 
 | 문제                 | 답안                             |
 | -------------------- |--------------------------------|
-| [소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) | [진홍](Day106/kjh.kt) 수민 [현수](Day106/hhs.java) [지우](Day106/sjw.java) |
+| [소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) | [진홍](Day106/kjh.kt) [수민](Day106/ysmC.cpp) [현수](Day106/hhs.java) [지우](Day106/sjw.java) |
 
 ## [107일차](Day107)
 
