@@ -3,7 +3,6 @@
 > 정리: [진홍](self_study/kjh.md) [수민](self_study/ysm.md) [현수](self_study/hhs.md) [지우](self_study/sjw.md)
 
 ## [105일차](Day105)
-
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [진홍](Day105/kjh.kt) [수민](Day105/ysmC.cpp) [현수](Day105/hhs.java) [지우](Day105/sjw.java) |
@@ -24,7 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 진홍 [수민](Day108/ysmC.cpp) 현수 지우 |
+| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [진홍](Day108/kjh.kt) [수민](Day108/ysmC.cpp) 현수 지우 |
 
 ## [109일차](Day109)
 
