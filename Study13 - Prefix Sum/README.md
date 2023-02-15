@@ -23,8 +23,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [진홍](Day108/kjh.kt) [수민](Day108/ysmC.cpp) 현수 [지우](Day108/sjw.java) |
-
+| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [진홍](Day108/kjh.kt) [수민](Day108/ysmC.cpp) [현수](Day108/hhs.java) [지우](Day108/sjw.java) |
 
 ## [109일차](Day109)
 
