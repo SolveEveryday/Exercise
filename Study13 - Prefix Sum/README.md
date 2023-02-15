@@ -26,10 +26,9 @@
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [진홍](Day108/kjh.kt) [수민](Day108/ysmC.cpp) [현수](Day108/hhs.java) [지우](Day108/sjw.java) |
 
 ## [109일차](Day109)
-
 | 문제                                               | 답안                                   |
 | -------------------------------------------------- | -------------------------------------- |
-| [두 개의 탑](https://www.acmicpc.net/problem/2118) | [진홍](Day109/kjh.java) 수민 [현수](Day109/hhs.java) 지우 |
+| [두 개의 탑](https://www.acmicpc.net/problem/2118) | [진홍](Day109/kjh.java) [수민](Day109/ysmC.cpp) [현수](Day109/hhs.java) 지우 |
 
 ## [110일차](Day110) - 코딩테스트 기출문제
 
