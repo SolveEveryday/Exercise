@@ -12,7 +12,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | 진홍 [수민](Day113/ysmC.cpp) [현수](Day113/hhs.java) 지우 |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | 진홍 [수민](Day113/ysmC.cpp) [현수](Day113/hhs.java) [지우](Day113/sjw.java) |
 
 ## [114일차](Day114)
 
