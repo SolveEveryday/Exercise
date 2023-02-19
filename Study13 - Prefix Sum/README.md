@@ -36,4 +36,4 @@
 
 | 문제                 | 답안                      |
 | -------------------- |-------------------------|
-| [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 진홍 수민 현수 [지우](sjw.java) |
+| [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 진홍 [수민](Day107/ysm2C.cpp) [현수](Day110/hhs.java) [지우](sjw.java) |
