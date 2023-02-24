@@ -18,7 +18,7 @@
 
 | 문제                                         | 답안                                 |
 | -------------------------------------------- | ------------------------------------ |
-| [파티](https://www.acmicpc.net/problem/1238) | [진홍](Day114/kjh.kt) 수민 [현수](Day114/hhs.java) 지우 |
+| [파티](https://www.acmicpc.net/problem/1238) | [진홍](Day114/kjh.kt) [수민](Day114/ysmC.cpp) [현수](Day114/hhs.java) 지우 |
 
 ## [115일차](Day115)
 
