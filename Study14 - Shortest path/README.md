@@ -28,6 +28,7 @@
 
 ## [116일차](Day116)
 
+
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 진홍 수민 현수 |
@@ -42,4 +43,4 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 진홍 수민 현수 |
+| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [진홍](Day119/kjh.kt) 수민 현수 |
