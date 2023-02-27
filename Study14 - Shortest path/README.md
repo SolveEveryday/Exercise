@@ -30,7 +30,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [진홍](Day116/kjh.kt) 수민 현수 |
+| [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [진홍](Day116/kjh.kt) 수민 [현수](Day116/hhs.java) 지우 |
 
 ## [117일차](Day117)
 
