@@ -36,7 +36,7 @@
 
 | 문제                 | 답안                |
 | -------------------- | ------------------- |
-| [알고스팟](https://www.acmicpc.net/problem/1261) | 진홍 [수민](Day117/ysmC.cpp) 현수 |
+| [알고스팟](https://www.acmicpc.net/problem/1261) | 진홍 [수민](Day117/ysmC.cpp) [현수](Day117/hhs.java) 지우 |
 
 ## [119일차](Day119) - 코딩테스트 기출문제
 
